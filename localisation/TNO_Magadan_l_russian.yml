@@ -190,8 +190,8 @@
  MAG_labourists_victorious_desc:0 ""
  
  MAG_equal_faction_influence:0 "§Lни Реформаторы, ни Трудовики не§!"
- MAG_reformists_influential:0 "the §MРеформаторы§!"
- MAG_labourists_influential:0 "the §OТрудовики§!"
+ MAG_reformists_influential:0 "§MРеформаторы§!"
+ MAG_labourists_influential:0 "§OТрудовики§!"
 
  MAG_sway_the_corporations:0 "§OПовлиять на корпорации§!"
  MAG_investigate_the_reform_wing:0 "§OРасследовать крыло Реформаторов§!"
@@ -264,9 +264,9 @@
  MAG_weaken_labourists_tt:0 "§OЭто ослабит Трудовиков.§!\n"
  MAG_the_enduring_will_of_the_people_tt:0 "§YЭто откроет решение, позволяющее разобраться с вражеской фракцией.§!\n"
 
- MAG_connections_with_the_diaspora_tt:0 "Наш §Yрост ВВП§! немного увеличиться из-за возврата эммигрантов.\n"
+ MAG_connections_with_the_diaspora_tt:0 "Наш §Yрост ВВП§! немного увеличится из-за возврата эммигрантов.\n"
 
- MAG_sensible_concessions_tt:0 "Наш §Yрост ВВП§! немного увеличиться, как результат расширенной торговли.\n"
+ MAG_sensible_concessions_tt:0 "Наш §Yрост ВВП§! немного увеличится, благодаря расширенной торговле.\n"
 
  USA_the_american_siberian_trade_act_tt:0 "Наш §Yрост ВВП§! немного увеличится.\n"
  MAG_the_american_siberian_trade_act_tt:0 "Наш §Yрост ВВП§! сильно увеличится.\n"
@@ -280,8 +280,8 @@
  #############################
 
  ### Siberia tree ###
- MAG_the_true_heir_of_harbin:0 "The True Heir of Harbin"
- MAG_the_true_heir_of_harbin_desc:0 "The Russian Fascist Party, as it was known in Harbin, is now gone. Long displeased with Rodzaevsky's policies and rhetoric, Matkovsky and his wing of the party has taken control of Magadan and are now molding it to suit their purposes. No longer shall the party struggle in mud, while the whole of Russia suffers. No more thuggery, no more rhetorics of hatred; Mother Russia calls us to her fold, to rescue her from ruin.\n\nBefore Matkovsky can do his duty for his motherland, however, he must rule alone, without either constraint nor disloyalty. While he trusts his wing of the party, he must crush dissent among his ranks. All those suspected of loyalty to Rodzaevsky shall find themselves purged. With his political hold over Magadan secure, Matkovsky shall do his sacred duty, one that he has steeled himself to do ever since the heady days of Harbin: under his guidance, Russia shall stand again, sole, strong, unrivaled."
+ MAG_the_true_heir_of_harbin:0 "Истинный Наследник Харбина"
+ MAG_the_true_heir_of_harbin_desc:0 "Российская Фашистская Партия, как её звали в Харбине, уже не существует. Матковский и верное ему крыло партии давно разочаровались в политике и риторике Родзаевского, поэтому они взяли власть в Магадане, и устраивают его согласно своим идеям. Довольно партии копаться в грязи, пока страдает вся Россия. Хватит бандитизма, хватит риторики ненависти; Россия Матушка взывает нас защитить её, спасти от разрухи.\n\nДо того, как Матковский может вправду послужить родине, он должен убедиться, что правит сам, несогласия и сопротивления быть не должно. Хоть он и доверяет своему крылу партии, он обязан сокрушить несогласие в своих рядах. Те, кто подозревается в верности Родзаевскому, должны подвергнуться чистке. Обеспечив полную политическую власть над Магаданом, Матковский исполнит свой священный долг, который он обещал исполнить ещё с тяжёлых времён в Харбине: под его руководством, Россия вновь встанет, единая, сильная и неделимая."
 
  MAG_building_the_wastes:0 "Building the Wastes"
  MAG_building_the_wastes_desc:0 "News of horror drifts from the west. German terror bombings, bandit raids, and wars fought by Russians against Russians: in the edges of Far Eastern Russia, Magadan is remote and sheltered from the troubles that plague the rest of the Motherland. Due to its distance, however, Magadan is not much. Located in the sparsest region in Russia, both in population and resources, there is not much here that is of use for the eventual liberation and reunion of Russia.\n\nMatkovsky will change that. The officials of his party shall travel the streets and outskirts of Magadan, for workers willing to join him in his crusade. They will build roads and telegram poles, small workshops, and manufactories. When the day of liberation dawns upon the dark body of Russia laid to rest by failures of the Reds and the crimes of the Germans, they shall find themselves richly rewarded by their duty and dedication, for Matkovsky shall let no faith in him go to waste."
@@ -837,7 +837,7 @@
  MAG.5.a:0 "Надеюсь это сработает."
  
  MAG.6.t:0 "Граф фащизма"
- MAG.6.desc:0 ""Здарова, братец Матковский!",- прокричал человек с пирса порта. Его тело было тощим, а лицо бледным. Так можно описать Анастасия Вонсяцкого, графа русского фашизма. Он быстрым шагом шел вперед, ему нетерпелось встретиться с Матковским. Он выглядел маленьким, даже жалким на фоне рыбацких кораблей, выплывающих под утренний свет.\n\nМатковский нахмурил брови. Ещё никто в этом мире не получил право называть его так. Выдав неловкую, горькую улыбку в сторону Вонсяцкого, он и его телохранители направлялись на встречу с графом. Протянув свою руку, Матковский сказал:"Здравствуй, как там в Америке?"\n\nВонсяцкий не стал пожимать руку, но заместо этого наклонился вперед, чтобы попытаться обнять Матковского. Матковский сжалился. Америка изменила Вонсяцкого. Эти жесты, эта манера речи и приветские. Всё это от русского человека. Опьянёный духом, Вонсяцкий громко произносит:"Это страна свободы. Всё это, - показав рукой, - слишком мало для нас."\n\n"Ты видимо забыл причину, по которой ты здесь." Сказал холодным тоном Матковский.\n\n"Нет, нет." Он засунул руку в карман. "Этот человек, мой подарок тебе." Он показал Матковскому чёрно-белую фотографию американца в берете."
+ MAG.6.desc:0 ""Здарова, братец Матковский!",- прокричал человек с пирса порта. Его тело было тощим, а лицо бледным. Так можно описать Анастасия Вонсяцкого, графа русского фашизма. Он быстрым шагом шел вперед, ему нетерпелось встретиться с Матковским. Он выглядел маленьким, даже жалким на фоне рыбацких кораблей, выплывающих под утренний свет.\n\nМатковский нахмурил брови. Ещё никто в этом мире не получил право называть его так. Выдав неловкую, горькую улыбку в сторону Вонсяцкого, он и его телохранители направлялись на встречу с графом. Протянув свою руку, Матковский сказал:"Здравствуй, как там в Америке?"\n\nВонсяцкий не стал пожимать руку, но заместо этого наклонился вперед, чтобы попытаться обнять Матковского. Матковский сжалился. Америка изменила Вонсяцкого. Эти жесты, эта манера речи и приветские. Всё это от русского человека. Опьянёный духом, Вонсяцкий громко произносит:"Это страна свободы. Всё это, - показав рукой, - слишком мало для нас."\n\n"Ты видимо забыл причину, по которой ты здесь." Сказал холодным тоном Матковский.\n\n"Нет, нет." Он засунул руку в карман. "Этот человек - мой подарок тебе." Он показал Матковскому чёрно-белую фотографию американца в берете."
  MAG.6.a:0 ""Я заинтересован.""
  
  MAG.7.t:0 "Волшебник шепчущей смерти"  
