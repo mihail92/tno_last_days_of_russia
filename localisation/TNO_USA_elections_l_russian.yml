@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  US_VOTE_REP_SPLIT_TEXT:0 "[?RD_R_senators|0]"
  US_VOTE_DEM_SPLIT_TEXT:0 "[?RD_D_senators|0]"
  CENTER_NPP_AMOUNT_TEXT:0 "[?NPP_C_senators|0]"
