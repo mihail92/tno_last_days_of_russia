@@ -1584,9 +1584,9 @@ GER_norfolk_accords_desc:0 "In the end, even the Führer couldn't disagree with 
 
 
  ## Events ##
- speer.1.t:0 "Speer is Victorious"
+ speer.1.t:0 "Победа Шпеера"
  speer.1.desc:0 "From the steps of the Reichstag today, Speer has announced that he has finally secured his place as the Führer of Germany. Armed soldiers from Stauffenberg's 6th Panzer Division and hundreds of armed militia fighters who had taken him to Germania surrounded the Reich's new leader as he announced he would be bringing Germany into a new era of prosperity and enlightenment.\n\nWhile hundreds of thousands filled the streets in celebration for their new leader and an end to the most bloody conflict Germany has ever become embroiled in, some skirmishes still continue across the nation as the followers of Speer's enemies have refused to give up the fight, despite their losses, refusing to accept Speer as their next leader. Still, Speer's speech has reached acclaim, not only in Germany, as it has become the most televised broadcast out of the nation in decades, being especially well received in Germany.\n\n"It is not enough to dream of a strong Germany. We must believe in a strong Germany. We must strive for a strong Germany. We will shine a light in the dark, and be a beacon for our children and their children, as they remember us as the ones who made a strong, brave, beautiful new world for them to inherit."
- speer.1.a:0 "A new era has begun"
+ speer.1.a:0 "Новая эра началась"
  speer.2.t:0 "The Radicals Strike"
  speer.2.desc:0 "The radical left wing of the Speerian faction began small and inconsequential, having no say in party policy and generally being relegated to sitting in the shadows.\n\nThis is no more, however, as the constant state of war in Germany has greatly encouraged radicalization, even among Speer's faction of idealists. Many have accused him of not going anywhere near far enough to try and win the war, or of being a secret Burgundian, or of attempting to sabotage his own movement from inside.\n\nWhile these claims are preposterous, many have rallied around them, and slowly yet surely a Communist and Socialist coalition has grown in the Speerians. It was unknown what exactly they planned until early this morning, when gunshots were heard near Speer's HQ. A coup."
  speer.2.a:0 "The radicals win, a new era begins!"
