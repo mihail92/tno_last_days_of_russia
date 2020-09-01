@@ -1,0 +1,43 @@
+﻿l_english:
+
+ ### Parties ###
+ PAV_communist_party:0 "VKP(b)"
+ PAV_communist_party_long:0 "Vsesoyuznaya Kommunisticheskaya Partiya (Bolshevikov)"
+ PAV_socialist_party:0 "Narodniki"
+ PAV_socialist_party_long:0 "Narodniki"
+ PAV_social_democrat_party:0 "RNP"
+ PAV_social_demorat_party_long:0 "Rossiyskaya Narodnaya Partiya"
+ PAV_social_liberal_party:0 "DPS"
+ PAV_social_liberal_party_long:0 "Demokraticheskaya Partiya Sibiri"
+ PAV_social_conservative_party:0 "RPP"
+ PAV_social_conservative_party_long:0 "Rossiyskaya Promyshlemnaya Partiya"
+ PAV_authoritarian_democrat_party:0 "Novosibirskiye Siloviki"
+ PAV_authoritarian_democrat_party_long:0 "Novosibirskiye Siloviki"
+ PAV_despotism_party:0 "Ryurikovy Loyalisty"
+ PAV_despotism_party_long:0 "Ryurikovy Loyalisty"
+ PAV_fascism_party:0 "RFP"
+ PAV_fascism_party_long:0 "Rossiyskaya Fashistskaya Partiya"
+ PAV_national_socialism_party:0 "RFP"
+ PAV_national_socialism_party_long:0 "Rossiyskaya Fashistskaya Partiya"
+ PAV_ultranational_socialism_party:0 "CL"
+ PAV_ultranational_socialism_party_long:0 "Chernaya Liga"
+ 
+ ### Leader Descriptions ###
+ POLITICS_ALEXANDER_POKRYSHKIN_DESC:0 "A legendary ace pilot in the Second World War and a Hero of the Soviet Union, Alexander Ivanovich Pokryshkin would return to his home town of Novosibirsk after the end of the war. Hoping to live a relatively peaceful life, little did he know where fate would lead him.\n\nPokryshkin was content with the rule of the Central Siberian Republic, and eventually found his way into government. Managing the city of Novosibirsk under the Republic was a relatively simple affair. That was, until the Siberian War. Soon, he would be forced to put the entire city on a war footing to face against Yagoda's powerful Supreme Soviet in the east. Rationing was introduced, conscription increased dramatically, and the young men of Novosibirsk were sent to die on the battlefields of Siberia. At one point, Pokryshkin reached his limit. After making a backroom deal with Mayor of Barnaul Vasily Shukshin, the plan was set into motion.\n\nThe two men and their subordinates would seize Novosibirsk swiftly, organizing a new government. A government free from any influence, and truly sovereign amidst the chaos that unfolded in Russia. Now, ruling through an uneasy alliance with Barnaul, Pokryshkin needs to ensure his state remains stable. Even though it boasts a large population, industry and functional agriculture, Novosibirsk still has problems it needs to face, both internal and external, and it is up to Pokryshkin to solve them."
+ 
+ ### Leader Traits ###
+ the_siberian_falcon:0 "The Siberian Falcon"
+ 
+ ### Ideas ###
+ PAV_Disproportionate_Population:0 "Disproportionate Population"
+ PAV_Disproportionate_Population_desc:0 "Novosibirsk has always been one of the most developed and densely populated regions across the Urals, as a hub to the Far East and a crucial link on the Trans-Siberian Railway. The city was already one of the biggest in Siberia when the Great Patriotic War broke out, but the conflict itself made it grow even more.\n\nThousands fled the German occupation, or simply the chaos that unfolded in Russian lands, and they arrived in Novosibirsk, which was soon crowded with civilians. This can be both a blessing and a curse, but it is something we have to live with."
+ PAV_The_All_Siberian_Army:0 "The All-Siberian Army"
+ PAV_The_All_Siberian_Army_desc:0 "The army that is responsible for the protection of the region of Novosibirsk is easily one of the most powerful and prestigious in Central Siberia. When the Siberian Falcon split from the Tomsk government to save himself and his people from the horrors of war, a large fraction of the army of the Central Siberian Republic pledged their loyalty to Pokryshkin, and soon reorganized in the south.\n\nThe All-Siberian Army has managed to reform into a force capable of rivalling even the largest neighbors of our warlord state, and the experience many men have from the Great Patriotic War and the Siberian War has proven invaluable."
+ PAV_The_Great_Opioid_Epidemic:0 "The Great Opioid Epidemic"
+ PAV_The_Great_Opioid_Epidemic_desc:0 "Drugs are hard to find in warlord Russia, but Novosibirsk has presented an opportunity for many to become involved in the illegal trade of substances. With a large population and a developed economy, the central government has faced an increasing number of issues with combatting the black market where such products circulate.\n\nAs the problem continues to spiral out of control, this is beginning to have a greater effect on the community, and addiction is becoming increasingly common in Novosibirsk."
+ 
+ ### Ministers ###
+ PAV_Vasily_Shukshin_hog:0 "Vasily Shukshin"
+ PAV_Nikolay_Skomorokhov_for:0 "Nikolay Skomorokhov"
+ PAV_Georgy_Langemak_eco:0 "Georgy Langemak"
+ PAV_Dmitry_Glinka_sec:0 "Dmitry Glinka"
