@@ -1,17 +1,17 @@
-﻿l_english:
+﻿l_russian:
 
  ###########
  ##PARTIES##
  ###########
- AFG_communist_party:0 "PDPA - Khalq"
- AFG_communist_party_long:0 "People's Democratic Party of Afghanistan - Khalq Faction"
- AFG_socialist_party:0 "PDPA - Parcham"
- AFG_socialist_party_long:0 "People's Democratic Party of Afghanistan - Parcham Faction"
+ AFG_communist_party:0 "НДПА - Кхалк"
+ AFG_communist_party_long:0 "Народно-Демократическая Партия Афганистана - Фракция Кхалк"
+ AFG_socialist_party:0 "НДПА - Парчам"
+ AFG_socialist_party_long:0 "Народно-Демократическая Партия Афганистана - Фракция Парчам"
  AFG_social_democrat_party:0 "HMD"
  AFG_social_democrat_party_long:0 "Hezb-e Mo'talef-e Demowkrāt"
- AFG_social_liberal_party:0 "Independent Liberals"
- AFG_social_conservative_party:0 "Independent Conservatives"
- AFG_authoritarian_democrat_party:0 "da Bārāzkai"
+ AFG_social_liberal_party:0 "Независимые Либералы"
+ AFG_social_conservative_party:0 "Независимые Консерваторы"
+ AFG_authoritarian_democrat_party:0 "Да Баракзай"
  AFG_ultranational_socialism_party:0 "Hezb-e Islami"
  AFG_ultranational_socialism_party_long:0 "Hezb-e Islami"
  AFG_pdp_party:0 "HMD"
@@ -25,13 +25,13 @@
  #############
  ##MINISTERS##
  #############
- AFG_Mohammad_Daoud_Khan_hog:0 "Mohammad Daoud Khan"
- AFG_Mohammad_Hashim_Maiwandwal_for:0 "Mohammad Hashim Maiwandwal"
- AFG_Sardar_Shah_Wali_Khan_sec:0 "Sardar Shah Wali Khan"
+ AFG_Mohammad_Daoud_Khan_hog:0 "Мохаммад Дауд Хан"
+ AFG_Mohammad_Hashim_Maiwandwal_for:0 "Мохаммад Хашим Маивандвал"
+ AFG_Sardar_Shah_Wali_Khan_sec:0 "Сардар Шах Вали Хан"
  
  #########
  ##IDEAS##
  #########
- AFG_Westernising_Nation:0 "Westernising Nation"
- AFG_Westernising_Nation_desc:0 "Our nation, despite having been quite backwards in the past, has begun to take strides to improve our standards, and become a modern country. Although this will be quite difficult, considering our past, we must be optimistic."
- AFG_Mohammad_Zahir_Shah:0 "Mohammad Zahir Shah"
+ AFG_Westernising_Nation:0 "Вестернизирующаяся Нация"
+ AFG_Westernising_Nation_desc:0 "Наша нация, пусть и была отсталой в прошлом, начала предпринимать меры по модернизации и стаёт современной страной. Это будет сложно, учитывая наше прошлое, но мы должны быть оптимистичны."
+ AFG_Mohammad_Zahir_Shah:0 "Мохаммад Заир Шах"
