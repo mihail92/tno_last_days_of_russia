@@ -97,9 +97,9 @@ VICTORY_POINTS_TOOLTIP:0 "§G$NAME$§! victory points = §Y$POINTS$§!"
  VICTORY_POINTS_11519:0 "Лютих"
  VICTORY_POINTS_11563:0 "Родомо"
  VICTORY_POINTS_3552:0 "Брест"
- VICTORY_POINTS_9495:0 "Рожен"
- VICTORY_POINTS_11465:0 "Наонд"
-# VICTORY_POINTS_6536:0 "An Oriant" #duplicate loc key
+ VICTORY_POINTS_9495:0 "Расхон"
+ VICTORY_POINTS_11465:0 "Наонед"
+# VICTORY_POINTS_6536:0 "Ан Ориант" #duplicate loc key
  VICTORY_POINTS_3509:0 "Ле-Ман"
  VICTORY_POINTS_11535:0 "Кан"
  VICTORY_POINTS_3549:0 "Эврё"
