@@ -1,0 +1,443 @@
+﻿l_russian:
+
+#Speer Economic GUI loc
+
+#Infobox stuff
+
+SGR_igfarben_leader:0 "Герман Йозеф Абс\n§LИГ ФАРБЕН§!"
+SGR_igfarben_expository_text:0 "От фондовых бирж Милана до невольничьих загонов Московии простирается экономическая империя, не похожая ни на одну другую. §WГерман Йозеф Абс§! сидит на своем троне, управляя своей империей из тени, подчиняясь одной ясной цели - власти. Его власти, и ничьей больше. §LИГ Фарбен§! является крупнейшим активом империи, которая охватывает §LНемецкий Банк и многие десятки других компаний§!. Абс не является членом НСДАП; на самом деле он всегда дистанцировался от Гитлера и его клики. Несмотря на это, он стал главным творцом военной экономики и вырезал свою империю из трофеев мировой войны, потворствуя и финансируя работорговлю, что превратило его §LИГ Фарбен§! в крупнейшую рабовладельческую корпорацию Германии. Его одержимость властью и отказ сотрудничать больше нельзя игнорировать. Абс и его империя должны быть уничтожены."
+
+SGR_reichswerke_leader:0 "Эдмунд Гейленберг\n§jРЕЙХСВЕРКЕ§!"
+SGR_reichswerke_expository_text:0 "§WЭдмунд Гейленберг§! руководит немецким Франкенштейном, известным как §jРейхсверке§!, одним из крупнейших промышленных конгломератов на Земле. Его назначение новым Вервиртшафтсфюрером было простым решением - связь Гейленберга с конгломератом началась еще до начала Второй мировой войны. Такое господство §jРейхсверке§! над Европой базируется на изобилии промышленности, которую он поглотил с территорий, аннексированных Рейхом во время наших военных побед. Несмотря на то, что ИГ Фарбен превосходит Рейхсверке почти во всем, конгломерат Гейленберга остается одним из крупнейших рабовладельческих картелей. Однако будучи юридически государственной собственностью, прямые действия против мерзости Гейленберга легче оправдать идеологам и промышленникам в НСДАП. Гейленберг падет, и Германия, наконец, выйдет из своего варварства."
+
+SGR_daimler_leader:0 "Фридрих Флик\n§gДАЙМЛЕР-БЕНЦ§!"
+SGR_daimler_expository_text:0 "Шагнув в бурную политическую жизнь Германии еще со времен Веймара, §WФридрих Флик§! стал щедрым спонсором НСДАП, зайдя настолько далеко, что присоединился к небольшому кругу друзей Генриха Гиммлера и ежемесячно выделял миллионы на нужды СС. §gДаймлер-Бенц§!, его владение, возможно не такое обширное, в сравнении с его коллегами, но талант Флика в биржевых делах делает его сильным конкурентом. Печально известный поклонник рабовладельческой системы, Флик уже утилизировал бесчисленное количество рабов в своем стремлении максимизировать прибыль, не показывая даже намека на раскаяние в своих действиях. Флик - лучший пример безжалостного промышленника, который извлек выгоду из прихода НСДАП к власти. Он должен быть ликвидирован."
+
+SGR_siemens_leader:0 "Эрнст фон Сименс\n§TСИМЕНС§!"
+SGR_siemens_expository_text:0 "§WЭрнст фон Сименс§! выделяется на фоне своих коллег-промышленников. Под его правлением, корпорация §TСименс§! увеличила свою прибыль в десять раз, избегая при этом достижения того уровня рабства, который демонстрируют другие конгломераты. Его компания также выделяется как одна из немногих в Германии, все еще имеющих положительную международную репутацию. Что важннее всего, молодая империя электроники проявила симпатию к реформистскому делу Шпеера; по крайней мере там, где §TСименс§! может получить прибыль. Поэтому семейное предприятие фон Сименса имеют значительный потенциал как в экономическом плане, так и в помощи Эрхарду в его борьбе с рабством. Союзник или нет, корпорация §TСименс§! все еще является рабовладельческим картелем, а значит стоит на пути процветания Германии. Хотя компанию и ее владелеца можно оставить в покое, власть конгломерата нужно уменьшить."
+
+#Frontscreen Metrics
+
+SGR_GDP_entry_1:0 "ВВП Цольверайна:  §W$§![?reich_GDP|2|W]§WB§!|[?zollvereinGDP_growth|%W2]"
+SGR_slave_entry_scripted_loc:0 "[getSGRSlaveryStatus]"
+SGR_slave_entry_1:0 "Количество рабов: [?Reich_SlavesNum_m|3|R] §Rмил.§!"
+SGR_slavery_abolished_entry:0 "§GРАБСТВО ОТМЕНЕНО§!"
+SGR_workforce_entry_1:0 "Свободные рабочие: [?displayCurrentWorkforce|4|W] §Wмил.§!|[?displayCivPercentage|%W2]"
+
+#Overview scripted loc
+
+SGR_ranking_gdp_entry:0 "§G$[?econRankingGDP^i|G]B§!"
+SGR_ranking_gdp_entry_ZV:0 "§G$[?ZV_members^i.GDP_billion|G]B§!"
+
+SGR_econ_overview:0 "Формально §QЦольверайн§! - это общий и справедливый рынок между большинством стран и территорий, входящих в состав §gПакта Единства§!. Де-факто это экономическая сфера §gРейха§!, где все еще далеко от равенства. Практически вся восточноевропейская промышленность находится в руках немцев, поскольку до не давнего времени восточные рейхкомиссариаты были не более чем немецкими колониальными админинстрациями. §RГенералплан Ост§! и другие глупые решения разрушили большую часть экономики востока; однако его потенциал в ресурсах и рабочей силе до сих пор является достаточно высоким. Упразднив рабство и сделав огромные инвестиции в восток, §QЦольверайн§! может превратиться в один из крупнейших экономических блоков на земле.\n\nЧтобы у §gРейха§! было будущее."
+
+#Zollverein Decision Category things
+
+SGR_Zollverein_members_investment_category:0 "Цольверайн"
+SGR_Zollverein_members_investment_category_desc:0 "\n\n\n\n\n\n§QОБЩИЙ БЮДЖЕТ: [?GER.ZollvereinBudget|+]§GM USD§!§!\n\n§YРАСПРЕДЕЛЕНИЕ:§! [?THIS.MemberZVBudget|+]§GM USD§!\n\n§OДОСТУПНЫЙ БЮДЖЕТ:§! [?THIS.MemberSpentBudget|W]/[?THIS.MemberZVBudget|+]§GM USD§!\n\n§QЦольверайн§! это грандиозный новый проект экономического сотрудничества между многими странами Европы возглавляемый §gГерманией§!. §GБанда Четырех§! стремится объединить континент под общим, единым рынком, обеспечив взаимовыгодное сотрудничество и экономическую стабильность для всех его членов."
+
+zv_quarterly_budget_tt:0 "Информация по §QОбщему бюджету§! и §YРаспределению средств§! скоро обновится."
+
+# Oil Crisis #
+
+SGR_ZV_debt_reduction:0 "Погасить долги"
+SGR_ZV_debt_reduction_desc:0 "Хотя это и не самое элегантное решение нашей растущей долговой проблемы, бюджет Цольверайна может и будет служить источником денег для погашения нашего государственного долга."
+SGR_ZV_debt_reduction_cost:0 "§Y150M§! £GFX_dollar_sign"
+SGR_ZV_debt_reduction_cost_blocked:0 "§R150M§! £GFX_dollar_sign"
+SGR_ZV_debt_reduction_tt:0 "§WНаш §Rдолг§! и §Rпроцентные ставки§! снизятся на §Y200M USD§! и §Y1.5%§! соотвественно.§!"
+
+SGR_ZV_oil_exploration:0 "Исследовать источники нефти"
+SGR_ZV_oil_exploration_desc:0 "Нефть стала жизненной силой современной цивилизации, и именно этот кризис показывает нам, насколько она стала ценна на самом деле. В нашей стране есть неиспользованные запасы нефти - пора к ним обратиться."
+
+SGR_ZV_introduce_rationing:0 "Ввести нормирование"
+SGR_ZV_introduce_rationing_desc:0 "Легкое, хотя и болезненное для общества, нормирование нефти и газа является наиболее рациональной контрмерой против нефтяного кризиса. Объявляя эти ограничения, мы экономим себе драгоценное время и деньги, даже если это не нравится нашим гражданам."
+
+SGR_ZV_fight_systematic_issues:0 "§YБорьба с системными проблемами§!"
+SGR_ZV_fight_systematic_issues_desc:0 "Независимо от геополитических событий, которые положили начало нефтяному кризису, сам факт того, что ситуация в нашей стране настолько ужасна, свидетельствует о необходимости экономических реформ. Ретроспектива всегда точна."
+
+# Standards #
+
+SGR_ZV_open_investments:0 "§YПоказать общие инвестиционные решения§!"
+SGR_ZV_open_investments_desc:0 "Нажмите, чтобы показать доступные общие инвестиционные решения."
+
+SGR_ZV_close_investments:0 "§YСкрыть общие инвестиционные решения§!"
+SGR_ZV_close_investments_desc:0 "Нажмите, чтобы скрыть доступные общие инвестиционные решения."
+
+SGR_ZV_open_special_investments:0 "§TПоказать специальные промышленные проекты§!"
+SGR_ZV_open_special_investments_desc:0 "Нажмите, чтобы показать доступные специальные промышленные проекты."
+
+SGR_ZV_close_special_investments:0 "§TСкрыть специальные промышленные проекты§!"
+SGR_ZV_close_special_investments_desc:0 "Нажмите, чтобы скрыть доступные специальные промышленные проекты."
+
+SGR_ZV_civilian_investment:0 "Гражданские инвестиции"
+SGR_ZV_civilian_investment_desc:0 "Используя бюджет нового экономического союза Европы, Цольверайн, мы переведем часть избыточного финансирования в нашу собственную промышленность, сосредоточившись на пополнении наших гражданских товаров и обеспечении того, чтобы наша экономика могла удовлетворить свое население."
+SGR_ZV_civilian_investment_cost:0 "§Y150M§! £GFX_dollar_sign"
+SGR_ZV_civilian_investment_cost_blocked:0 "§R150M§! £GFX_dollar_sign"
+
+SGR_ZV_military_investment:0 "Военные инвестиции"
+SGR_ZV_military_investment_desc:0 "Даже находясь под защитой многих стран-участников Цольверайна, мы все еще нуждаемся в собственной боеспособной армии. Имея это в виду, дальнейшие инвестиции в увеличение нашего военного потенциала окажутся наиболее полезным побочным эффектом членства в Цольверайне."
+
+SGR_ZV_infrastructure_investment:0 "Инвестиции в инфраструктуру"
+SGR_ZV_infrastructure_investment_desc:0 "Сердце любой нации бьется так же сильно, как звенья ее железных дорог и асфальт ее магитсралей. С помощью новой инвестиционной программы, продвигаемой Цольверайном, мы позаботимся о том, чтобы инфраструктура нашей страны была улучшена."
+SGR_ZV_infrastructure_investment_cost:0 "§Y100M§! £GFX_dollar_sign"
+SGR_ZV_infrastructure_investment_cost_blocked:0 "§R100M§! £GFX_dollar_sign"
+
+SGR_ZV_synthoil_investment:0 "Инвестиции в синтетическую пром."
+SGR_ZV_synthoil_investment_desc:0 "Мы не можем полностью полагаться на мир за пределами Европы - поэтому разумно инвестировать в расширение поставок синтетических материалов, которые у нас есть, за счет средств Цольверайна, и инвестировать в дальнейшую переработку этого процесса. Хотя автаркия - это труднодостижимая вещь, она все же облегчит любые будущие проблемы, которые мы получим из-за ситуации с нефтью."
+SGR_ZV_synthoil_investment_desc_cost:0 "§Y250M§! £GFX_dollar_sign"
+SGR_ZV_synthoil_investment_desc_cost_blocked:0 "§R250M§! £GFX_dollar_sign"
+
+SGR_ZV_education_investment:0 "Инвестиции в образование"
+SGR_ZV_education_investment_desc:0 "Если и есть что-то важное для основания нации, так это то, насколько грамотны и умны ее люди. Хотя мы уже и так сосредоточены на образовании, Цольверайн упростит нам этот процесс, чтобы продвинуть обновление школ и изучение национальной учебной программы, проведя образовательную реформу."
+SGR_ZV_education_investment_cost:0 "§Y50M§! £GFX_dollar_sign"
+SGR_ZV_education_investment_cost_blocked:0 "§R50M§! £GFX_dollar_sign"
+
+SGR_ZV_poverty_investment:0 "Инвестиции в сокращение бедности"
+SGR_ZV_poverty_investment_desc:0 "Люди, которые едва сводят концы с концами из-за своей зарплаты, или люди, которые просто выходят на улицу и просят лишнюю мелочь, чтобы выжить, - они наиболее уязвимы, но наиболее доступны к нашему влиянию. С помощью Цольверайна мы сделаем значительную попытку очистить улицы от бедности и сделать так, чтобы все больше и больше людей могли прийти с работы в теплую, ухоженную квартиру."
+
+SGR_ZV_workers_investment:0 "Инвестиции в молодежь"
+SGR_ZV_workers_investment_desc:0 "Наша промышленность должна быть разносторонней, и нет лучшего способа обеспечить создание основ такой промышленности, чем обратиться к молодежи страны. Цольверайн является полезным инструментом - с помощью него мы можем создать программы для продвижения ярких новых умов в области, которые обычно не изучаются, тем самым диверсифицируя и укрепляя нашу экономику."
+
+SGR_Zollverein_Quarterly_Update:0 "Ежегодное обновление бюджета"
+SGR_Zollverein_Quarterly_Update_desc:0 "Бюджет и ивестиции Цольверайна на каждую страну обновляются раз в полгода, что позволяет нам проводить новые инвестиции в проблемные области."
+
+
+#Economic GUI Costs & Tasks
+
+SGR_tasks_scriploc_tt:0 "[getSGRStatesTooltip]"
+SGR_tasks_unavailable_tt:0 "§YНачать борьбу с промышленными магнатами можно будет только после того, как Шпеер укрепит свое правление.§!"
+
+SGR_task_invest:0 "§YИнвестиции в средний класс§!"
+SGR_task_invest_tt:0 "§GИнвестиции§! в средний класс нашего общества ослабит хватку §Yпромышленников§! над нашей экономикой. Чем меньше §Rрабов§! находится в регионе, тем эффективней это действие.\n\n§WКУЛДАУН В ДВЕ НЕДЕЛИ§!"
+
+SGR_task_weaken:0 "§YАрест активов корпораций§!"
+SGR_task_weaken_tt:0 "§RАрест корпоративных активов§! наших §Yбизнесменов-промышленников§! с помощью Вермахта это эффективный, хотя и жестокий, способ ослабить их влияние на нашу экономику.\n\n§WКУЛДАУН В ОДИН МЕСЯЦ§!"
+
+SGR_task_antitrust:0 "§YАнтимонопольная директива§!"
+SGR_task_antitrust_tt:0 "Как только власть §Yпромышленников§!£GFX_megacorp! над регионом окажется §Y0%§!, §Gправительство§! может принять директиву об отстранении их от экономического контроля над регионом."
+SGR_task_antitrust_reward:0 "Отстранение §Yглавы конгломерата§! от контроля над этим регионом даст следующий бонус: \n\n[getSGRStatesBonusTooltip]"
+SGR_task_antitrust_ger_tt:0 "§YЛидер Цольверайна§! Consumer Goods: §Y-2%§!"
+SGR_task_antitrust_notger_tt:0 "§Y66%§! §TChance of§!:\n    §Y2§! §TCivilian Factories in a Random State§!\n    §Y+1.5%§! §TLocal GDP Growth§!\n\n§Y34%§! §TChance of§!:\n    §Y4§! §TAdditional Building Slots in a Random State§!\n    §Y+1.5%§! §TLocal GDP Growth§!"
+
+SGR_task_cost1:0 "§Y5§!£political_power_texticon  | §Y10M§!£GFX_dollar_sign"
+SGR_task_cost2:0 "§Y10§!£political_power_texticon  | §Y30§!£GFX_command_power"
+SGR_task_cost3:0 "§Y25§!£political_power_texticon  | §Y0%§!£GFX_megacorp!"
+
+#Frontscreen Tolltips
+
+SGR_GDP_entry_1_tt:0 "The §QZollverein's GDP§! corresponds to its economic wealth and currently lies at §Y$§![?reich_GDP|2|Y]§YB§!, with §gGermany's§! share being §Y$§![?displayGermanyGDP|2|Y]§YB§!. Its mean growth rate lies at [?zollvereinGDP_growth|%Y2].\n\nIn international negotiations, a high §QZollverein GDP§! will make the §gReich§! more attractive to investors and businesspartners. The GDP's growth is directly impacted by an increasing §GSkilled Workforce§! ratio, currently at [?displayCivPercentage|%G2], and the reduction and eventual abolition of §Rslavery§!."
+SGR_slave_entry_1_tt:0 "§RSlavery§! is the §gReich's§! cancer and encompasses [?Reich_SlavesNum_m|3|R] §Rmillion§! enslaved people. \n\nA travesty of a system originally introduced to win the Second World War and pursue the insane dreams of the elite, only to finally be usurped by the §HWehrwirtschaftsführer§! to line their own pockets. From international relations to economy, the abolition of §Rslavery§! can only benefit §gGermany§! and the §QZollverein§! as a whole."
+SGR_workforce_entry_1_tt:0 "The §GSkilled Workforce§! is the civilian workforce of skilled labourers in §gGermany§! and currently lies at [?displayCurrentWorkforce|4|G] §Gmillion§!, or [?displayCivPercentage|%G] of the theoretically available workforce of [?displayTheoreticalWorkforce|4|G] §Gmillion§!.\n\nThe §GSkilled Workforce§! is increased by sponsoring tradesmanships initiatives in the §gReich§! while reducing the amount of §Rslave labour§! in the §QZollverein§!."
+
+
+#Decision category stuff
+
+SGR_Konjunkturpaket:0 "Enact the §WKonjunkturpaket§!"
+SGR_Konjunkturpaket_desc:0 "The German people have grown complacent on the backs of slaves, and as a result have failed to develop a reliable self-sufficient economy. In order to ensure the survival of the Reich, plans must be put in place in order to create a sustainable economic environment within Europe. Slaves will no longer be seen as a necessity, but rather as an outdated practice which will be eventually phased out by the incorporation of hardworking German people into the industrial workplace."
+
+SGR_Poland_investment:0 "Investment into Poland"
+SGR_Poland_investment_desc:0 "There is a large unstated need for economic investment and infrastructure within Poland. The erroneous and short-sighted Generalplan Ost, along with the mass enslavement of the Polish people, has turned Poland into a backwards hellscape. If we are to bring about a new era of peace and stability in the east, we must first look into improving and developing new infrastructure to further financial growth within the region."
+
+SGR_Ukraine_investment:0 "Investment into Ukraine"
+SGR_Ukraine_investment_desc:0 "German mismanagement and slavery has severely damaged the economic and political stability of Ukraine and the surrounding areas. Much of the Ukrainan industry is outdated and is built on forced labor camps, an unsustainable economic practice which must be righted if we are to ensure that Ukraine will prosper and flourish in the future."
+
+SGR_Ostland_investment:0 "Investment into Ostland"
+SGR_Ostland_investment_desc:0 "While the past decades have seen considerable success with the germanization of Ostland, much of the region's industry is either non-operational or completely obsolete. In particular, the Belorussian state is in a state of disrepair and ruin, with much of the previous Ostland administration neglecting to cultivate any means of foreign investment or economic opportunity within the region. We must right the wrongs of our forefathers if we are to reassert German economic influence in Europe."
+
+SGR_Kaukasien_investment:0 "Investment into Kaukasien"
+SGR_Kaukasien_investment_desc:0 "The rich natural resources and cheap labor within the Kaukasus region has led to a rather unhealthy relationship between Kaukasien and Germany. Working conditions in RK Kaukasien are notoriously atrocious, with German overlord exploiting a cheap and inexperienced labor pool. We must address these horrendous working conditions in Kaukasien if we are to foster any concrete economic growth."
+
+SGR_Volga_investment:0 "Investment into the Volga"
+SGR_Volga_investment_desc:0 "While many may see our subjects to the east as an unruly and lawless bunch, cooperative measures have frequently occurred between the Germans and native Russians within the region. If we are to create any semblance of long-term economic prosperity, we must foster this relationship between Germans and Russians in order to benefit the Reich."
+
+SGR_konjunkturpaket_cost:0 "§WThe Konjunkturpaket will cost us §R100,000,000 USD every month§!.§!"
+SGR_eastern_investment_cost:0 "§WEastern investment will cost us §R25,000,000 USD every month.§!§!"
+
+SGR_oilsteelchrome_reward:0 "§WResource deposits including §Yoil§!, §Ysteel§! and §Ychromium§! will be made accessible.§!"
+SGR_oilsteel_reward:0 "§WResource deposits including §Yoil§! and §Ysteel§! will be made accessible.§!"
+
+#Econ tree stuff
+
+SGR_econ_decisions_available:0 "§WA new decision category is enabled. The §QEconomic GUI§!'s actions against corporations become activated!§!"
+SGR_decisions_available:0 "§WNew decisions will be available.§!"
+
+SGR_trigger_allinvestments:0 "§WWe need to have invested into §Gall§! the eastern regimes before we can make this decision.§!"
+SGR_trigger_konjunkturpaket:0 "§WThe Konjunkturpaket needs to be §Gfinished§! before we can make this decision.§!"
+
+SGR_trigger_igfarben:0 "§W§LIG FARBEN§! must be §GVULNERABLE§! for us to take action.§!"
+SGR_trigger_reichswerke:0 "§W§jREICHSWERKE§! must be §GVULNERABLE§! for us to take action.§!"
+SGR_trigger_daimler:0 "§W§gDAIMLER-BENZ§! must be §GVULNERABLE§! for us to take action.§!"
+SGR_trigger_siemens:0 "§W§TSIEMENS§! must be §GVULNERABLE§! for us to take action.§!"
+
+SGR_all_resources:0 "§WWe will be granted access to §Gall resources§! uncovered in the eastern regimes, at the cost of §RGDP growth§!.§!"
+SGR_some_resources:0 "§WWe will be granted access to only §Rsome§! resources uncovered in the eastern regimes, at the benefit of §GGDP growth§!.§!"
+
+SGR_wealth_for_all:0 "§WThe surplus wealth we have gained in the course of Erhard's reforms will be invested back into the §QZollverein§!, §Gincreasing GDP growth across the board.§!§!"
+SGR_wealth_for_us:0 "§WThe surplus wealth we have gained in the course of Erhard's reforms will be invested back into §gGermany§!, §Gincreasing the Reich's GDP growth.§!§!"
+
+#Ideas
+
+SGR_join_zollverein_tt:0 "§W§Y[THIS.GetName]§! joins the §QZollverein§!."
+
+SGR_zollverein_members_scriptedloc_bloc:0 "\nZollverein Budget Allotment: §G$§![?FROM.MemberZVBudget|+]§GM USD§!"
+
+SGR_zollverein_scriptedloc_bloc:0 "\nTotal Zollverein Budget: §G$§![?ZollvereinBudget|+]§GM USD§!\nZollverein Budget Payments: [?ZollvereinPayments|0Y%] of Annual Revenue\nZollverein Budget Payout: [?GER.SGRZVfactor|0+%]"
+
+SGR_zollverein_germany:0 "Leader of the Zollverein Commission"
+SGR_zollverein_germany_desc:0 "§DResources to Market: [?SGR_export_factor|0Y%]\nConsumer Goods Factories: [?SGR_consumer_goods|1Y%][getZollvereinIdeaBlock] \n--------------\n§!The Zollverein is a common market and customs union between its members. A replacement for the clearly obsolete and dysfunctional Großraum Kontinentaleuropa concept, it is a means for Germany to continue being the hegemon of Europe - albeit now, hopefully, in a less bloody manner."
+
+SGR_zollverein_basic:0 "Member of the Zollverein Commission"
+SGR_zollverein_basic_desc:0 "§DPolitical Power Gain Factor: [?THIS.ZV_pp_gain|0+%]\nConsumer Goods Factories: [?THIS.ZV_consumer_goods|1Y%]\nProduction Efficiency Gain Factor: [?THIS.ZV_production_gain|1+%][getZollvereinMembersIdeaBlock] \n--------------\n§!The Zollverein is a common market and customs union between its members. A replacement for the clearly obsolete and dysfunctional Großraum Kontinentaleuropa concept, it is a means for Germany to continue being the hegemon of Europe - albeit now, hopefully, in a less bloody manner."
+
+SGR_zollverein_reich:0 "A German Zollverein"
+SGR_zollverein_reich_desc:0 "The Zollverein's German-centric bureaucracy has been largely kept, in some regards even reinforced. Thus, there will continue to be little to no distinguishing between a German economy and an eastern European economy. Same old, same old."
+
+SGR_zollverein_common:0 "A European Zollverein"
+SGR_zollverein_common_desc:0 "The Zollverein's German-centric bureaucracy has been significantly relaxed. Nazi economic directionism has tenuously given way to grassroots cooperation headed by the Reformist faction and eastern economies, resulting in flourishing local trade."
+
+SGR_siemenswelt:0 "Siemenswelt"
+SGR_siemenswelt_desc:0 "Siemens is Germany's leading tech company and simultaneously one of the few with significant international standing. Their presence on our side is a boon for our research and development efforts."
+
+SGR_reichswerke_mass_privatisation:0 "Reichswerke Privatisation"
+SGR_reichswerke_mass_privatisation_desc:0 "Reichswerke is in the process of largely being privatized, with middleclass corporations profitting the most off of this."
+
+SGR_reichswerke_limited_privatisation:0 "Reichswerke Limited Privatisation"
+SGR_reichswerke_limited_privatisation_desc:0 "Reichswerke is partly being privatized. The Reich will nonetheless hold on to the most important aspects of the company, namely arms production."
+
+SGR_daimler_slashed:0 "Daimler-Benz Slashed"
+SGR_daimler_slashed_desc:0 "Daimler-Benz's assets are being seized wholesale and sold off to our growing middleclass corporations at low prices."
+
+SGR_made_in_germany_reformist_tt:0 "Foreign trade payments: §G+15%§!"
+SGR_made_in_germany_conservative_tt:0 "Foreign trade payments: §G+10%§!"
+SGR_zollverein_common_tt:0 "Zollverein GDP gain: §G+20%§!"
+SGR_zollverein_reich_tt:0 "Zollverein GDP gain: §G+10%§!"
+SGR_zollverein_basic_tt:0 "GDP growth: §G+1.5%§!\nZollverein budget payments: §R10%§! of Annual Revenue"
+
+SGR_made_in_germany_reformist:0 "Made in Germany"
+SGR_made_in_germany_reformist_desc:0 "Through hard work and millions spent, Germany finally has a foundation to build an economy on. Our current measures are still far from what the economic potential of the Reich truly is - but they are a start. A second chance Germany desperately needed. Still, with our name recovering, the money foreigners are willing to pay for our goods will slowly but surely increase."
+
+SGR_made_in_germany_conservative:0 "Made in Germany"
+SGR_made_in_germany_conservative_desc:0 "Through hard work and millions spent, Germany finally has a foundation to build an economy on. Our current measures are still far from what the economic potential of the Reich truly is - but they are a start. A second chance Germany desperately needed. Still, with our name recovering, the money foreigners are willing to pay for our goods will slowly but surely increase."
+
+#GUI Tooltips
+
+SGR_igfarben_button_tt:0 "Available once company power is at §G0%§! and focus §YFührererlass§! has been taken."
+SGR_reichswerke_button_tt:0 "Available once company power is at §G0%§! and focus §YPast is Past§! has been taken."
+SGR_siemens_button_tt:0 "Available once company power is at §G0%§! and focus §YZukunftsmusik§! has been taken."
+SGR_daimler_button_tt:0 "Available once company power is at §G0%§! and focus §YBuyout§! has been taken."
+
+
+
+#Scripted Effects Tooltips
+
+SGR_europes_dreams_tt:0 "§YThe payments to the Zollverein's budget will increase by §G5%§!, while Germany's budget payout decreases by §R10%§!§!."
+SGR_reichs_needs_tt:0 "§YThe payments to the Zollverein's budget will increase by §G5%§!, while Germany's budget payout increases by §G5%§!§!."
+
+SGR_erhard_plan_tt:0 "§GErhard's plan must be started as early and followed as closely as possible to work best.§!\n"
+SGR_skilled_labour_increase_small_tt:0 "§GThe Skilled Workforce will slightly benefit from this.§!\n"
+SGR_skilled_labour_increase_mid_tt:0 "§GThe Skilled Workforce will benefit from this.§!\n"
+SGR_skilled_labour_increase_big_tt:0 "§GThe Skilled Workforce will significantly benefit from this!§!\n"
+
+SGR_repatriation_started_tt:0 "§YIt is time to act upon our promises.§!"
+SGR_repatriation_increase_small:0 "§WRepatriation efforts will be §Gsomewhat enhanced§!.§!"
+SGR_repatriation_increase_mid:0 "§WRepatriation efforts will be §Genhanced§!.§!"
+SGR_repatriation_increase_big:0 "§WRepatriation efforts will be §Gsignificantly enhanced§!!§!"
+
+SGR_igfarben_attack_tt:0 "§WEfforts against §LIG FARBEN§! will §Gincrease in strength§!.§!"
+SGR_reichswerke_attack_tt:0 "§WEfforts against §jREICHSWERKE§! will §Gincrease in strength§!.§!"
+SGR_daimler_attack_tt:0 "§WEfforts against §gDAIMLER-BENZ§! will §Gincrease in strength§!.§!"
+SGR_siemens_attack_tt:0 "§WEfforts against §TSIEMENS§! will §Gincrease in strength§!.§!"
+
+#Scripted Loc Stuff
+
+SGR_IGFarben_bar_tt:0 "§LIG FARBEN§!'s power is at [?IGFarbenPower|%W]."
+SGR_Reichswerke_bar_tt:0 "§jREICHSWERKE§!'s power is at [?ReichswerkePower|%W]."
+SGR_Daimler_bar_tt:0 "§gDAIMLER-BENZ§!'s power is at [?DaimlerPower|%W]."
+SGR_Siemens_bar_tt:0 "§TSIEMENS§!'s power is at [?SiemensPower|%W]."
+
+SGR_IGFarben_power:0 "[GetIGFarbenPower]\n"
+SGR_Reichswerke_power:0 "[GetReichswerkePower]\n"
+SGR_Daimler_power:0 "[GetDaimlerPower]\n"
+SGR_Siemens_power:0 "[GetSiemensPower]\n"
+
+SGR_untouched:0 "§RUNTOUCHED§!"
+SGR_powerful:0 "§OPOWERFUL§!"
+SGR_influential:0 "§YINFLUENTIAL§!"
+SGR_middling:0 "§gMIDDLING§!"
+SGR_waning:0 "§TWANING§!"
+SGR_vulnerable:0 "§GVULNERABLE§!"
+SGR_dismantled:0 "§WDISMANTLED§!"
+
+SGR_balanced:0 "§QNO CARTEL§!"
+SGR_ig_farben:0 "§LIG FARBEN§!"
+SGR_reichswerke:0 "§jREICHSWERKE§!"
+SGR_daimler_benz:0 "§gDAIMLER-BENZ§!"
+SGR_siemens:0 "§TSIEMENS§!"
+
+SGR_controlled_by:0 "[getSGRControllingCompany]"
+SGR_powerlevel:0 "£GFX_megacorp [getSGRCompanyPower]"
+
+SGR_no_slaves:0 "§Gno slaves§!"
+
+SGR_rhineland_slaves:0 "[?SGR_WWS_Mil_Regions^0|R3] §Rmillion slaves§!"
+SGR_northgermany_slaves:0 "[?SGR_WWS_Mil_Regions^1|R3] §Rmillion slaves§!"
+SGR_centralgermany_slaves:0 "[?SGR_WWS_Mil_Regions^2|R3] §Rmillion slaves§!"
+SGR_sachsenanhalt_slaves:0 "[?SGR_WWS_Mil_Regions^3|R3] §Rmillion slaves§!"
+SGR_prussia_slaves:0 "[?SGR_WWS_Mil_Regions^4|R3] §Rmillion slaves§!"
+SGR_bohemia_slaves:0 "[?SGR_WWS_Mil_Regions^5|R3] §Rmillion slaves§!"
+SGR_southgermany_slaves:0 "[?SGR_WWS_Mil_Regions^6|R3] §Rmillion slaves§!"
+SGR_austria_slaves:0 "[?SGR_WWS_Mil_Regions^7|R3] §Rmillion slaves§!"
+SGR_poland_slaves:0 "[?SGR_WWS_Mil_Regions^8|R3] §Rmillion slaves§!"
+SGR_belarus_slaves:0 "[?SGR_WWS_Mil_Regions^9|R3] §Rmillion slaves§!"
+SGR_lithuania_slaves:0 "[?SGR_WWS_Mil_Regions^10|R3] §Rmillion slaves§!"
+SGR_estonia_slaves:0 "[?SGR_WWS_Mil_Regions^11|R3] §Rmillion slaves§!"
+SGR_kyiv_slaves:0 "[?SGR_WWS_Mil_Regions^12|R3] §Rmillion slaves§!"
+SGR_southukraine_slaves:0 "[?SGR_WWS_Mil_Regions^13|R3] §Rmillion slaves§!"
+SGR_eastukraine_slaves:0 "[?SGR_WWS_Mil_Regions^14|R3] §Rmillion slaves§!"
+SGR_azerbaijan_slaves:0 "[?SGR_WWS_Mil_Regions^15|R3] §Rmillion slaves§!"
+SGR_georgia_slaves:0 "[?SGR_WWS_Mil_Regions^16|R3] §Rmillion slaves§!"
+SGR_katharinastadt_slaves:0 "[?SGR_WWS_Mil_Regions^17|R3] §Rmillion slaves§!"
+SGR_leningrad_slaves:0 "[?SGR_WWS_Mil_Regions^18|R3] §Rmillion slaves§!"
+SGR_holland_slaves:0 "[?SGR_WWS_Mil_Regions^19|R3] §Rmillion slaves§!"
+SGR_denmark_slaves:0 "[?SGR_WWS_Mil_Regions^20|R3] §Rmillion slaves§!"
+SGR_oslo_slaves:0 "[?SGR_WWS_Mil_Regions^21|R3] §Rmillion slaves§!"
+SGR_westnorway_slaves:0 "[?SGR_WWS_Mil_Regions^22|R3] §Rmillion slaves§!"
+SGR_crimea_slaves:0 "[?SGR_WWS_Mil_Regions^23|R3] §Rmillion slaves§!"
+SGR_uppervolga_slaves:0 "[?SGR_WWS_Mil_Regions^24|R3] §Rmillion slaves§!"
+SGR_lowervolga_slaves:0 "[?SGR_WWS_Mil_Regions^25|R3] §Rmillion slaves§!"
+SGR_bessarabia_slaves:0 "[?SGR_WWS_Mil_Regions^26|R3] §Rmillion slaves§!"
+
+
+
+#Tooltip Boxes Map
+
+#Germany
+
+SGR_economic_rhineland_tt:0 "§YRHEINLAND§!\n\nThere are currently [getRhinelandSlaves] in this economic region.\n\nThis region is dominated by [GetRheinlandMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_northgermany_tt:0 "§YNORDDEUTSCHLAND§!\n\nThere are currently [getNorthgermanySlaves] in this economic region.\n\nThis region is dominated by [GetNorthgermanMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_centralgermany_tt:0 "§YMITTELDEUTSCHLAND§!\n\nThere are currently [getCentralgermanySlaves] in this economic region.\n\nThis region is dominated by [GetCentralgermanMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_sachsenanhalt_tt:0 "§YSACHSEN-ANHALT§!\n\nThere are currently [getSachsenanhaltSlaves] in this economic region.\n\nThis region is dominated by [GetSachsenanhaltMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_prussia_tt:0 "§YPREUßEN§!\n\nThere are currently [getPrussiaSlaves] in this economic region.\n\nThis region is dominated by [GetPrussiaMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_bohemia_tt:0 "§YBÖHMEN-MÄHREN§!\n\nThere are currently [getBohemiaSlaves] in this economic region.\n\nThis region is dominated by [GetBohemiaMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_southgermany_tt:0 "§YSÜDDEUTSCHLAND§!\n\nThere are currently [getSouthgermanySlaves] in this economic region.\n\nThis region is dominated by [GetSouthgermanMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_austria_tt:0 "§YOSTMARK§!\n\nThere are currently [getAustriaSlaves] in this economic region.\n\nThis region is dominated by [GetAustrianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+
+#Poland
+
+SGR_economic_poland_tt:0 "§YPOLEN§!\n\nThere are currently [getPolandSlaves] in this economic region.\n\nThis region is dominated by [GetPolishMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+
+#Ostland
+
+SGR_economic_belarus_tt:0 "§YWEIßRUTHENIEN§!\n\nThere are currently [getBelarusSlaves] in this economic region.\n\nThis region is dominated by [GetBelarusianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_lithuania_tt:0 "§YLITTAUEN§!\n\nThere are currently [getLithuaniaSlaves] in this economic region.\n\nThis region is dominated by [GetLithuanianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_estonia_tt:0 "§YESTLAND-RIGA§!\n\nThere are currently [getEstoniaSlaves] in this economic region.\n\nThis region is dominated by [GetEstonianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+
+#Ukraine
+
+SGR_economic_kyiv_tt:0 "§YWOLHYNIEN-PODOLIEN§!\n\nThere are currently [getKyivSlaves] in this economic region.\n\nThis region is dominated by [GetWolhynianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_southukraine_tt:0 "§YSAPORISCHSCHJA§!\n\nThere are currently [getSouthukraineSlaves] in this economic region.\n\nThis region is dominated by [GetZaporizhianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_eastukraine_tt:0 "§YSEWERIEN§!\n\nThere are currently [getEastukraineSlaves] in this economic region.\n\nThis region is dominated by [GetSewerianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+
+#Kaukasia
+
+SGR_economic_azerbaijan_tt:0 "§YASERBAIDSCHAN§!\n\nThere are currently [getAzerbaijanSlaves] in this economic region.\n\nThis region is dominated by [GetAzerbaijanMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_georgia_tt:0 "§YGEORGIEN§!\n\nThere are currently [getGeorgiaSlaves] in this economic region.\n\nThis region is dominated by [GetGeorgianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_katharinastadt_tt:0 "§YKATHARINASTADT§!\n\nThere are currently [getKatharinastadtSlaves] in this economic region.\n\nThis region is dominated by [GetKatharinastadtMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+
+#Leningrad
+
+SGR_economic_leningrad_tt:0 "§YBRAUCHITSCHSTADT§!\n\nThere are currently [getLeningradSlaves] in this economic region.\n\nThis region is dominated by [GetLeningradMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+
+#Holland
+
+SGR_economic_holland_tt:0 "§YNIEDERLANDE§!\n\nThere are currently [getHollandSlaves] in this economic region.\n\nThis region is dominated by [GetHollandMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+
+#Denmark
+
+SGR_economic_denmark_tt:0 "§YDÄNEMARK§!\n\nThere are currently [getDenmarkSlaves] in this economic region.\n\nThis region is dominated by [GetDanishMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+
+#Norway
+
+SGR_economic_oslo_tt:0 "§YØSTLANDET§!\n\nThere are currently [getOsloSlaves] in this economic region.\n\nThis region is dominated by [GetOsloMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_westnorway_tt:0 "§YVESTLANDET§!\n\nThere are currently [getWestnorwaySlaves] in this economic region.\n\nThis region is dominated by [GetWestnorwegianMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+
+#Crimea
+
+SGR_economic_crimea_tt:0 "§YGOTENLAND§!\n\nThere are currently [getCrimeaSlaves] in this economic region.\n\nThis region is dominated by [GetCrimeanMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+
+#Volga
+
+SGR_economic_uppervolga_tt:0 "§YOBERWOLGA§!\n\nThere are currently [getUppervolgaSlaves] in this economic region.\n\nThis region is dominated by [GetUppervolgaMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+SGR_economic_lowervolga_tt:0 "§YNIEDERWOLGA§!\n\nThere are currently [getLowervolgaSlaves] in this economic region.\n\nThis region is dominated by [GetLowervolgaMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+
+#Bessarabia
+
+SGR_economic_bessarabia_tt:0 "§YTRANSNISTRIEN§!\n\nThere are currently [getBessarabiaSlaves] in this economic region.\n\nThis region is dominated by [GetBessarabiaMegacorp].\n\n§YCLICK FOR FURTHER ACTIONS§!"
+
+#States Windows#
+
+#More tts
+
+SGR_2weeks:0 "Available every two weeks"
+SGR_1month:0 "Available every month"
+
+#State names
+
+SGR_rhineland:0 "§YRHEINLAND§!"
+SGR_northgermany:0 "§YNORDDEUTSCHLAND§!"
+SGR_centralgermany:0 "§YMITTELDEUTSCHLAND§!"
+SGR_sachsenanhalt:0 "§YSACHSEN-ANHALT§!"
+SGR_prussia:0 "§YPREUßEN§!"
+SGR_bohemia:0 "§YBÖHMEN-MÄHREN§!"
+SGR_southgermany:0 "§YSÜDDEUTSCHLAND§!"
+SGR_austria:0 "§YOSTMARK§!"
+SGR_poland:0 "§YPOLEN§!"
+SGR_belarus:0 "§YWEIßRUTHENIEN§!"
+SGR_lithuania:0 "§YLITTAUEN§!"
+SGR_estonia:0 "§YESTLAND§!"
+SGR_kyiv:0 "§YWOLHYNIEN-PODOLIEN§!"
+SGR_southukraine:0 "§YSAPORISCHSCHJA§!"
+SGR_eastukraine:0 "§YSEWERIEN§!"
+SGR_azerbaijan:0 "§YASERBAIDSCHAN§!"
+SGR_georgia:0 "§YGEORGIEN§!"
+SGR_katharinastadt:0 "§YKATHARINASTADT§!"
+SGR_leningrad:0 "§YBRAUCHITSCHSTADT§!"
+SGR_holland:0 "§YNIEDERLANDE§!"
+SGR_denmark:0 "§YDÄNEMARK§!"
+SGR_oslo:0 "§YØSTLANDET§!"
+SGR_westnorway:0 "§YVESTLANDET§!"
+SGR_crimea:0 "§YGOTENLAND§!"
+SGR_uppervolga:0 "§YOBERWOLGA§!"
+SGR_lowervolga:0 "§YNIEDERWOLGA§!"
+SGR_bessarabia:0 "§YTRANSNISTRIEN§!"
+
+#State powers
+
+SGR_rhineland_pw:0 "[?SGR_WWS_Megacorps_Power^0|%]"
+SGR_northgermany_pw:0 "[?SGR_WWS_Megacorps_Power^1|%]"
+SGR_centralgermany_pw:0 "[?SGR_WWS_Megacorps_Power^2|%]"
+SGR_sachsenanhalt_pw:0 "[?SGR_WWS_Megacorps_Power^3|%]"
+SGR_prussia_pw:0 "[?SGR_WWS_Megacorps_Power^4|%]"
+SGR_bohemia_pw:0 "[?SGR_WWS_Megacorps_Power^5|%]"
+SGR_southgermany_pw:0 "[?SGR_WWS_Megacorps_Power^6|%]"
+SGR_austria_pw:0 "[?SGR_WWS_Megacorps_Power^7|%]"
+SGR_poland_pw:0 "[?SGR_WWS_Megacorps_Power^8|%]"
+SGR_belarus_pw:0 "[?SGR_WWS_Megacorps_Power^9|%]"
+SGR_lithuania_pw:0 "[?SGR_WWS_Megacorps_Power^10|%]"
+SGR_estonia_pw:0 "[?SGR_WWS_Megacorps_Power^11|%]"
+SGR_kyiv_pw:0 "[?SGR_WWS_Megacorps_Power^12|%]"
+SGR_southukraine_pw:0 "[?SGR_WWS_Megacorps_Power^13|%]"
+SGR_eastukraine_pw:0 "[?SGR_WWS_Megacorps_Power^14|%]"
+SGR_azerbaijan_pw:0 "[?SGR_WWS_Megacorps_Power^15|%]"
+SGR_georgia_pw:0 "[?SGR_WWS_Megacorps_Power^16|%]"
+SGR_katharinastadt_pw:0 "[?SGR_WWS_Megacorps_Power^17|%]"
+SGR_leningrad_pw:0 "[?SGR_WWS_Megacorps_Power^18|%]"
+SGR_holland_pw:0 "[?SGR_WWS_Megacorps_Power^19|%]"
+SGR_denmark_pw:0 "[?SGR_WWS_Megacorps_Power^20|%]"
+SGR_oslo_pw:0 "[?SGR_WWS_Megacorps_Power^21|%]"
+SGR_westnorway_pw:0 "[?SGR_WWS_Megacorps_Power^22|%]"
+SGR_crimea_pw:0 "[?SGR_WWS_Megacorps_Power^23|%]"
+SGR_uppervolga_pw:0 "[?SGR_WWS_Megacorps_Power^24|%]"
+SGR_lowervolga_pw:0 "[?SGR_WWS_Megacorps_Power^25|%]"
+SGR_bessarabia_pw:0 "[?SGR_WWS_Megacorps_Power^26|%]"
+
