@@ -14,7 +14,7 @@ SGR_daimler_leader:0 "Фридрих Флик\n§gДАЙМЛЕР-БЕНЦ§!"
 SGR_daimler_expository_text:0 "Шагнув в бурную политическую жизнь Германии еще со времен Веймара, §WФридрих Флик§! стал щедрым спонсором НСДАП, зайдя настолько далеко, что присоединился к небольшому кругу друзей Генриха Гиммлера и ежемесячно выделял миллионы на нужды СС. §gДаймлер-Бенц§!, его владение, возможно не такое обширное, в сравнении с его коллегами, но талант Флика в биржевых делах делает его сильным конкурентом. Печально известный поклонник рабовладельческой системы, Флик уже утилизировал бесчисленное количество рабов в своем стремлении максимизировать прибыль, не показывая даже намека на раскаяние в своих действиях. Флик - лучший пример безжалостного промышленника, который извлек выгоду из прихода НСДАП к власти. Он должен быть ликвидирован."
 
 SGR_siemens_leader:0 "Эрнст фон Сименс\n§TСИМЕНС§!"
-SGR_siemens_expository_text:0 "§WЭрнст фон Сименс§! выделяется на фоне своих коллег-промышленников. Под его правлением, корпорация §TСименс§! увеличила свою прибыль в десять раз, избегая при этом достижения того уровня рабства, который демонстрируют другие конгломераты. Его компания также выделяется как одна из немногих в Германии, все еще имеющих положительную международную репутацию. Что важннее всего, молодая империя электроники проявила симпатию к реформистскому делу Шпеера; по крайней мере там, где §TСименс§! может получить прибыль. Поэтому семейное предприятие фон Сименса имеют значительный потенциал как в экономическом плане, так и в помощи Эрхарду в его борьбе с рабством. Союзник или нет, корпорация §TСименс§! все еще является рабовладельческим картелем, а значит стоит на пути процветания Германии. Хотя компанию и ее владелеца можно оставить в покое, власть конгломерата нужно уменьшить."
+SGR_siemens_expository_text:0 "§WЭрнст фон Сименс§! выделяется на фоне своих коллег. Под его правлением, корпорация §TСименс§! увеличила свою прибыль в десять раз, избегая при этом достижения того уровня рабства, который демонстрируют другие конгломераты. Его компания также выделяется как одна из немногих в Германии, все еще имеющих положительную международную репутацию. Что важнее всего, молодая империя электроники проявила симпатию к реформистскому делу Шпеера; по крайней мере там, где §TСименс§! может получить прибыль. Поэтому семейное предприятие фон Сименса имеют значительный потенциал как в экономическом плане, так и в помощи Эрхарду в его борьбе с рабством. Союзник или нет, корпорация §TСименс§! все еще является рабовладельческим картелем, а значит стоит на пути процветания Германии. Хотя компанию и ее владелеца можно оставить в покое, власть конгломерата нужно уменьшить."
 
 #Frontscreen Metrics
 
@@ -98,8 +98,8 @@ SGR_ZV_poverty_investment_desc:0 "Люди, которые едва сводят
 SGR_ZV_workers_investment:0 "Инвестиции в молодежь"
 SGR_ZV_workers_investment_desc:0 "Наша промышленность должна быть разносторонней, и нет лучшего способа обеспечить создание основ такой промышленности, чем обратиться к молодежи страны. Цольверайн является полезным инструментом - с помощью него мы можем создать программы для продвижения ярких новых умов в области, которые обычно не изучаются, тем самым диверсифицируя и укрепляя нашу экономику."
 
-SGR_Zollverein_Quarterly_Update:0 "Ежегодное обновление бюджета"
-SGR_Zollverein_Quarterly_Update_desc:0 "Бюджет и ивестиции Цольверайна на каждую страну обновляются раз в полгода, что позволяет нам проводить новые инвестиции в проблемные области."
+SGR_Zollverein_Quarterly_Update:0 "Полугодовое обновление бюджета"
+SGR_Zollverein_Quarterly_Update_desc:0 "Бюджет и доступные инвестиции для каждой страны-члена Цольверайна обновляются раз в полгода, что позволяет нам использовать этот бюджет для проведения новых инвестиций в проблемные области."
 
 
 #Economic GUI Costs & Tasks
@@ -116,8 +116,8 @@ SGR_task_weaken_tt:0 "§RАрест корпоративных активов§!
 SGR_task_antitrust:0 "§YАнтимонопольная директива§!"
 SGR_task_antitrust_tt:0 "Как только власть §Yпромышленников§!£GFX_megacorp! над регионом окажется §Y0%§!, §Gправительство§! может принять директиву об отстранении их от экономического контроля над регионом."
 SGR_task_antitrust_reward:0 "Отстранение §Yглавы конгломерата§! от контроля над этим регионом даст следующий бонус: \n\n[getSGRStatesBonusTooltip]"
-SGR_task_antitrust_ger_tt:0 "§YЛидер Цольверайна§! Consumer Goods: §Y-2%§!"
-SGR_task_antitrust_notger_tt:0 "§Y66%§! §TChance of§!:\n    §Y2§! §TCivilian Factories in a Random State§!\n    §Y+1.5%§! §TLocal GDP Growth§!\n\n§Y34%§! §TChance of§!:\n    §Y4§! §TAdditional Building Slots in a Random State§!\n    §Y+1.5%§! §TLocal GDP Growth§!"
+SGR_task_antitrust_ger_tt:0 "§YЛидер Цольверайна§! фабрики, производящие товары народного потребления: §Y-2%§!"
+SGR_task_antitrust_notger_tt:0 "§Y66%§! §TШанс получить§!:\n    §Y2§! §Tгражданских фабрики в случайной провинции§!\n    §Y+1.5%§! §Tк росут ВВП§!\n\n§Y34%§! §TШанс получить§!:\n    §Y4§! §Tдополнительных ячейки для строительства в случайной провинции§!\n    §Y+1.5%§! §Tк росту ВВП§!"
 
 SGR_task_cost1:0 "§Y5§!£political_power_texticon  | §Y10M§!£GFX_dollar_sign"
 SGR_task_cost2:0 "§Y10§!£political_power_texticon  | §Y30§!£GFX_command_power"
@@ -125,61 +125,61 @@ SGR_task_cost3:0 "§Y25§!£political_power_texticon  | §Y0%§!£GFX_megacorp!"
 
 #Frontscreen Tolltips
 
-SGR_GDP_entry_1_tt:0 "The §QZollverein's GDP§! corresponds to its economic wealth and currently lies at §Y$§![?reich_GDP|2|Y]§YB§!, with §gGermany's§! share being §Y$§![?displayGermanyGDP|2|Y]§YB§!. Its mean growth rate lies at [?zollvereinGDP_growth|%Y2].\n\nIn international negotiations, a high §QZollverein GDP§! will make the §gReich§! more attractive to investors and businesspartners. The GDP's growth is directly impacted by an increasing §GSkilled Workforce§! ratio, currently at [?displayCivPercentage|%G2], and the reduction and eventual abolition of §Rslavery§!."
-SGR_slave_entry_1_tt:0 "§RSlavery§! is the §gReich's§! cancer and encompasses [?Reich_SlavesNum_m|3|R] §Rmillion§! enslaved people. \n\nA travesty of a system originally introduced to win the Second World War and pursue the insane dreams of the elite, only to finally be usurped by the §HWehrwirtschaftsführer§! to line their own pockets. From international relations to economy, the abolition of §Rslavery§! can only benefit §gGermany§! and the §QZollverein§! as a whole."
-SGR_workforce_entry_1_tt:0 "The §GSkilled Workforce§! is the civilian workforce of skilled labourers in §gGermany§! and currently lies at [?displayCurrentWorkforce|4|G] §Gmillion§!, or [?displayCivPercentage|%G] of the theoretically available workforce of [?displayTheoreticalWorkforce|4|G] §Gmillion§!.\n\nThe §GSkilled Workforce§! is increased by sponsoring tradesmanships initiatives in the §gReich§! while reducing the amount of §Rslave labour§! in the §QZollverein§!."
+SGR_GDP_entry_1_tt:0 "§QВВП Цольверайна§! соотвествует его экономическому благосостоянию и в настоящее время составляет §Y$§![?reich_GDP|2|Y]§YB§!. Доля §gГермании§! составляет §Y$§![?displayGermanyGDP|2|Y]§YB§!. Это значит, что скорость роста составляет [?zollvereinGDP_growth|%Y2].\n\nВ международных переговорах высокий уровень §QВВП Цольверайна§! сделает §gРейх§! более привлекательным для инвесторов и бизнес-партнеров. На рост ВВП непосредственно влияют рост количества §Gквалифицированных рабочих§!, который в настоящее время составляет [?displayCivPercentage|%G2], а также сокращение и окончательная отмена §Rрабства§!."
+SGR_slave_entry_1_tt:0 "§RРабство§! - это раковая опухоль §gРейха§!, охватывающая [?Reich_SlavesNum_m|3|R] §Rмиллионы§! порабощенных людей. \n\nКогда-то созданная для победы во Второй Мировой войне, сейчас эта система нужна только для того, чтобы набивать карманы нескольким богатым §Hпромышленникам§!. От международных отношений до экономики отмена §Rрабства§! принесет только пользу §gГермании§! и §QЦольверайну§!."
+SGR_workforce_entry_1_tt:0 "§GКвалифицированные рабочие§! - это гражданская рабочая сила, добровольно работающая по всей §gГермании§!. На текущий момент количество свободных рабочих [?displayCurrentWorkforce|4|G] §Gмиллионов§!, или [?displayCivPercentage|%G]. Теоретически свободной рабочей силы [?displayTheoreticalWorkforce|4|G] §Gмиллионов§!.\n\nКоличество §Gквалифицированных рабочих§! увеличевается за счет поддержки торговых инициатив в §gРейхе§! при одновременном сокращении §Rрабского труда§! по всему §QЦольверайну§!."
 
 
 #Decision category stuff
 
-SGR_Konjunkturpaket:0 "Enact the §WKonjunkturpaket§!"
-SGR_Konjunkturpaket_desc:0 "The German people have grown complacent on the backs of slaves, and as a result have failed to develop a reliable self-sufficient economy. In order to ensure the survival of the Reich, plans must be put in place in order to create a sustainable economic environment within Europe. Slaves will no longer be seen as a necessity, but rather as an outdated practice which will be eventually phased out by the incorporation of hardworking German people into the industrial workplace."
+SGR_Konjunkturpaket:0 "Принять §WПакт о стабилизации§!"
+SGR_Konjunkturpaket_desc:0 "Последние два десятиетия немецкий народ самодовольно почивал на спинах рабов, и в результате не смог развить надежную самодостаточную экономику. Чтобы обеспечить выживание Рейха, необходимо разработать планы по созданию устойчивой экономической среды в Европе. Отныне рабы будут рассматриваться не как необходимость, а скорее как устаревшая практика, которая в конечном итоге будет постепенно выведена из строя путем включения трудолюбивого немецкого народа в промышленное производство."
 
-SGR_Poland_investment:0 "Investment into Poland"
-SGR_Poland_investment_desc:0 "There is a large unstated need for economic investment and infrastructure within Poland. The erroneous and short-sighted Generalplan Ost, along with the mass enslavement of the Polish people, has turned Poland into a backwards hellscape. If we are to bring about a new era of peace and stability in the east, we must first look into improving and developing new infrastructure to further financial growth within the region."
+SGR_Poland_investment:0 "Инвестиции в Польшу"
+SGR_Poland_investment_desc:0 "Сейчас в Польше существует неустановленная потребность в экономических инвестициях и строительстве инфраструктуры. Ошибочный и недальновидный Генералплан Ост, наряду с массовым порабощением польского народа, превратил Польшу в отсталый ад. Если мы хотим начать новую эру мира и стабильности на востоке, мы должны прежде всего заняться улучшением и развитием новой инфраструктуры для дальнейшего финансового роста в регионе."
 
-SGR_Ukraine_investment:0 "Investment into Ukraine"
-SGR_Ukraine_investment_desc:0 "German mismanagement and slavery has severely damaged the economic and political stability of Ukraine and the surrounding areas. Much of the Ukrainan industry is outdated and is built on forced labor camps, an unsustainable economic practice which must be righted if we are to ensure that Ukraine will prosper and flourish in the future."
+SGR_Ukraine_investment:0 "Инвестиции в Украину"
+SGR_Ukraine_investment_desc:0 "Бесхозяйственность и рабство Германии нанесли серьезный ущерб экономической и политической стабильности Украины и прилегающих территорий. Большая часть украинской промышленности устарела и построена на принудительных трудовых лагерях, неустойчивой экономической практике. Эту ситуацию необходимо исправить, если мы хотим, чтобы Украина росла и процветала в будущем."
 
-SGR_Ostland_investment:0 "Investment into Ostland"
-SGR_Ostland_investment_desc:0 "While the past decades have seen considerable success with the germanization of Ostland, much of the region's industry is either non-operational or completely obsolete. In particular, the Belorussian state is in a state of disrepair and ruin, with much of the previous Ostland administration neglecting to cultivate any means of foreign investment or economic opportunity within the region. We must right the wrongs of our forefathers if we are to reassert German economic influence in Europe."
+SGR_Ostland_investment:0 "Инвестиции в Остланд"
+SGR_Ostland_investment_desc:0 "Несмотря на то, что в последние десятилетия в германизации Остланда были достигнуты значительные успехи, большая часть промышленности региона либо не работает, либо полностью устарела. В частности, белорусское государство находится в состоянии упадка и разорения, а большая часть прежней администрации Остланда пренебрегало любыми средствами иностранных инвестиций или экономическими возможностями в регионе. Мы должны исправить ошибки наших предков, если хотим восстановить германское экономическое влияние в Европе."
 
-SGR_Kaukasien_investment:0 "Investment into Kaukasien"
-SGR_Kaukasien_investment_desc:0 "The rich natural resources and cheap labor within the Kaukasus region has led to a rather unhealthy relationship between Kaukasien and Germany. Working conditions in RK Kaukasien are notoriously atrocious, with German overlord exploiting a cheap and inexperienced labor pool. We must address these horrendous working conditions in Kaukasien if we are to foster any concrete economic growth."
+SGR_Kaukasien_investment:0 "Инвестиции в Кавказию"
+SGR_Kaukasien_investment_desc:0 "Богатые природные ресурсы и дешевая рабочая сила в кавказском регионе привели к довольно нездоровым отношениям между Кавказией и Германией. Условия труда в РК Кавказии, как известно, зверские - немецкая админинстрация с самого захвата региона начала эксплуатацию местного населения по-полной. Мы должны решить эту проблему ужасных условий труда, если мы хотим способствовать какому-либо конкретному экономическому росту региона."
 
-SGR_Volga_investment:0 "Investment into the Volga"
-SGR_Volga_investment_desc:0 "While many may see our subjects to the east as an unruly and lawless bunch, cooperative measures have frequently occurred between the Germans and native Russians within the region. If we are to create any semblance of long-term economic prosperity, we must foster this relationship between Germans and Russians in order to benefit the Reich."
+SGR_Volga_investment:0 "Инвестиции в Волгу"
+SGR_Volga_investment_desc:0 "Хотя многие могут рассматривать наших подданных на Востоке как неуправляемую и беззаконную шайку головорезов, совместные действия часто между немцами и коренными русскими в этом регионе довольно распространены. Если мы хотим создать хоть какое-то подобие долгосрочного экономического процветания, мы должны развивать хорошие отношения между немцами и русскими. Это точно принесет пользу Рейху в будущем."
 
-SGR_konjunkturpaket_cost:0 "§WThe Konjunkturpaket will cost us §R100,000,000 USD every month§!.§!"
-SGR_eastern_investment_cost:0 "§WEastern investment will cost us §R25,000,000 USD every month.§!§!"
+SGR_konjunkturpaket_cost:0 "§WПакт о стабилизации будет стоить нам §R100,000,000 USD каждый месяц§!.§!"
+SGR_eastern_investment_cost:0 "§WВосточные инвестиции будут стоить нам §R25,000,000 USD каждый месяц.§!§!"
 
-SGR_oilsteelchrome_reward:0 "§WResource deposits including §Yoil§!, §Ysteel§! and §Ychromium§! will be made accessible.§!"
-SGR_oilsteel_reward:0 "§WResource deposits including §Yoil§! and §Ysteel§! will be made accessible.§!"
+SGR_oilsteelchrome_reward:0 "§WМесторождения ресурсов §Yнефти§!, §Yстали§! и §Yхрома§! станут доступны.§!"
+SGR_oilsteel_reward:0 "§WМесторождения ресурсов §Yнефти§! и §Yстали§! станут доступны.§!"
 
 #Econ tree stuff
 
-SGR_econ_decisions_available:0 "§WA new decision category is enabled. The §QEconomic GUI§!'s actions against corporations become activated!§!"
-SGR_decisions_available:0 "§WNew decisions will be available.§!"
+SGR_econ_decisions_available:0 "§WВам доступны новые решения. §QЭкономическая ГУИ§! (кнопка слева от диаграмы партий) стала доступной!§!"
+SGR_decisions_available:0 "§WВам доступны новые решения.§!"
 
-SGR_trigger_allinvestments:0 "§WWe need to have invested into §Gall§! the eastern regimes before we can make this decision.§!"
-SGR_trigger_konjunkturpaket:0 "§WThe Konjunkturpaket needs to be §Gfinished§! before we can make this decision.§!"
+SGR_trigger_allinvestments:0 "§WНеобходимо вложить деньги во §Gвсех§! восточных членов Пакта, чтобы разблокировать этот фокус.§!"
+SGR_trigger_konjunkturpaket:0 "§WНеобходимо §Gзакончить§! выполнение пакта о стабилизации, чтобы разблокировать этот фокус.§!"
 
-SGR_trigger_igfarben:0 "§W§LIG FARBEN§! must be §GVULNERABLE§! for us to take action.§!"
-SGR_trigger_reichswerke:0 "§W§jREICHSWERKE§! must be §GVULNERABLE§! for us to take action.§!"
-SGR_trigger_daimler:0 "§W§gDAIMLER-BENZ§! must be §GVULNERABLE§! for us to take action.§!"
-SGR_trigger_siemens:0 "§W§TSIEMENS§! must be §GVULNERABLE§! for us to take action.§!"
+SGR_trigger_igfarben:0 "§W§LИГ ФАРБЕН§! должно быть §GЛИКВИДИРОВАНО§!.§!"
+SGR_trigger_reichswerke:0 "§W§jРЕЙХСВЕРКЕ§! должно быть §GЛИКВИДИРОВАНО§!.§!"
+SGR_trigger_daimler:0 "§W§gДАЙМЛЕР-БЕНЦ§! должен быть §GЛИКВИДИРОВАН§!.§!"
+SGR_trigger_siemens:0 "§W§TСИМЕНС§! должен быть §GЛИКВИДИРОВАН§!.§!"
 
-SGR_all_resources:0 "§WWe will be granted access to §Gall resources§! uncovered in the eastern regimes, at the cost of §RGDP growth§!.§!"
-SGR_some_resources:0 "§WWe will be granted access to only §Rsome§! resources uncovered in the eastern regimes, at the benefit of §GGDP growth§!.§!"
+SGR_all_resources:0 "§WНам будет предоставлен доступ ко §Gвсем ресурсам§! наших восточных режимов, ценой §Rроста нашего ВВП§!.§!"
+SGR_some_resources:0 "§WНам будет предоставлен доступ к §Rнекоторым ресурсам§! наших восточных режимов, в пользу §Gроста нашего ВВП§!.§!"
 
-SGR_wealth_for_all:0 "§WThe surplus wealth we have gained in the course of Erhard's reforms will be invested back into the §QZollverein§!, §Gincreasing GDP growth across the board.§!§!"
-SGR_wealth_for_us:0 "§WThe surplus wealth we have gained in the course of Erhard's reforms will be invested back into §gGermany§!, §Gincreasing the Reich's GDP growth.§!§!"
+SGR_wealth_for_all:0 "§WИзбыточная прибыль, которую мы получили в ходе реформ Эрхарда, будет инвестирована обратно в §QЦольверайн§!, §Gувеличивая рост ВВП каждой страны-члена.§!§!"
+SGR_wealth_for_us:0 "§WИзбыточная прибыль, которую мы получили в ходе реформ Эрхарда, будет инвестирована обратно в  §gГерманию§!, §Gувеличивая рост ВВП нашего Рейха.§!§!"
 
 #Ideas
 
-SGR_join_zollverein_tt:0 "§W§Y[THIS.GetName]§! joins the §QZollverein§!."
+SGR_join_zollverein_tt:0 "§W§Y[THIS.GetName]§! присоединилась к §QЦольверайну§!."
 
-SGR_zollverein_members_scriptedloc_bloc:0 "\nZollverein Budget Allotment: §G$§![?FROM.MemberZVBudget|+]§GM USD§!"
+SGR_zollverein_members_scriptedloc_bloc:0 "\nРаспределение бюджета Цольверайна: §G$§![?FROM.MemberZVBudget|+]§GM USD§!"
 
 SGR_zollverein_scriptedloc_bloc:0 "\nTotal Zollverein Budget: §G$§![?ZollvereinBudget|+]§GM USD§!\nZollverein Budget Payments: [?ZollvereinPayments|0Y%] of Annual Revenue\nZollverein Budget Payout: [?GER.SGRZVfactor|0+%]"
 
