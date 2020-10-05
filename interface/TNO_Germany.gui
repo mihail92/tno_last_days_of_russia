@@ -750,7 +750,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "TNO_SGR_Decisions_RND_GUI_movement_container"
 			size = { width = 0 height = 0 }
-			position = { x = 0 y = 525 }
+			position = { x = 0 y = 485 }
 
 			iconType = {
 				name = "SGR_RND_GUI_bg"
