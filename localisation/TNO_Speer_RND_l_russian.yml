@@ -2,12 +2,12 @@
 
 #RND mechanic related loc
 
-RND_doing_special_mission:0 "§RСпециальная миссия§! уже идет!"
+RND_doing_special_mission:0 " §RСпециальная миссия§! уже идет!"
 
 #Decision category
 
-SGR_der_RND_category:0 "§WИмперская Служба Безопасности§!"
-SGR_der_RND_category_desc:0 "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe §WИмперская Служба Безопасности§! - это ответ  §gГермании§! на ЦРУ и Кемпейтай - должным образом объединенную разведывательную службу, заменившую прежние разведывательные структуры: Абвер, Гестапо и множество структур поменьше. "
+SGR_der_RND_category:0 "§WИСБ§!"
+SGR_der_RND_category_desc:0 "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n§WИмперская Служба Безопасности§! - это ответ  §gГермании§! на ЦРУ и Кемпейтай - должным образом объединенная разведывательная служба, заменившая прежние разведывательные структуры: Абвер, Гестапо и множество структур поменьше. "
 
 SGR_RND_special_missions_open:0 "[getRNDSpecOpsHeader]"
 SGR_RND_normal_missions_open:0 "[getRNDNormOpsHeader]"
@@ -77,38 +77,38 @@ SGR_RND_sabotage_enemy_cost_blocked:0 "§R25%§!£GFX_training_icon, §R20M§!£
 
 #Tooltips
 
-RND_training_tt:0 "£GFX_training_icon §RExpertise§! is the aggregate preparedness and training §WRND§! agents currently have, growing every two weeks. Its growth is affected by the size of the §GBudget§! and §Tresearch§!.\n\nTo embark on any missions for the §WRND§!,£GFX_training_icon §RExpertise§! is spent as a currency."
+RND_training_tt:0 "£GFX_training_icon §RОпыт§! - это совокупная готовность агентов §WИСБ§! к выполнению различных операций, растет каждые две недели. Также на его рост влияют размер §Gбюджета§! и §Tисследования§!.\n\nНа любые операции §WИСБ§!, необходимо какое-то количество £GFX_training_icon §Rопыта§!, который тратится как валюта."
 
-RND_research_tt:0 "£GFX_science_icon §TResearch and Development§! is necessary to keep the §WRND§! in a competitive state, growing every week once research has been picked. Its growth is affected by the size of the §GBudget§! as well as previous §Tresearch§! already done.\n\nCurrent £GFX_science_icon §TResearch Speed§! is [?RND_research_speed_display|Y]§Y%§!/week." 
+RND_research_tt:0 "£GFX_science_icon §TИсследования и разработки§! необходимы для поддержания §WИСБ§! в конкурентоспособном состоянии, прогресс исследований растет каждую неделю после того, как было выбрано какое-то исследование. На скорость его роста влияют размер §Gбюджета§!, а также уже проведенные §Tисследования§!.\n\nТекущая £GFX_science_icon §Tскорость исследований§! составляет [?RND_research_speed_display|Y]§Y%§! в неделю." 
 
 RND_research_button_tt:0 "Открыть меню исследований"
 
 SGR_RND_regimestab_tt:0 "§YСтабильность режима§! может выиграть от ослабления §rреакционного крыла НСДАП§!."
 
-SGR_RND_10_expertise_tt:0 "£GFX_training_icon §RExpertise§! must be atleast §Y10%§! or higher"
-SGR_RND_20_expertise_tt:0 "£GFX_training_icon §RExpertise§! must be atleast §Y20%§! or higher"
-SGR_RND_30_expertise_tt:0 "£GFX_training_icon §RExpertise§! must be atleast §Y30%§! or higher"
-SGR_RND_mission_success_70_tt:0 "§TMission Success Chance§! must be atleast §Y75%§!"
+SGR_RND_10_expertise_tt:0 "Количество £GFX_training_icon §Rопыта§! должно быть не меньше §Y10%§!"
+SGR_RND_20_expertise_tt:0 "Количество £GFX_training_icon §Rопыта§! должно быть не меньше §Y20%§!"
+SGR_RND_30_expertise_tt:0 "Количество £GFX_training_icon §Rопыта§! должно быть не меньше §Y30%§!"
+SGR_RND_mission_success_70_tt:0 "§TШанс на успех миссии§! должен быть равен не меньше §Y75%§!"
 
-SGR_RND_sonder_researched_tt:0 "Has £GFX_science_icon §TTechnology§! "§YSonderblindfunkdienst§!""
-SGR_RND_bugs_researched_tt:0 "Has £GFX_science_icon §TTechnology§! "§Y31211-5 Bugs§!""
-SGR_RND_radio_researched_tt:0 "Has £GFX_science_icon §TTechnology§! "§YUFT-421 Personal Radio§!""
-SGR_RND_ent_researched_tt:0 "Has £GFX_science_icon §TTechnology§! "§YENTDECKER Recon Satellites§!""
-SGR_RND_cipher_researched_tt:0 "Has £GFX_science_icon §TTechnology§! "§YM-190 Cipher Machine§!""
-SGR_RND_truth_researched_tt:0 "Has £GFX_science_icon §TTechnology§! "§YTruth Serum§!""
-SGR_RND_camera_researched_tt:0 "Has £GFX_science_icon §TTechnology§! "§YRS 50 Modified Camera§!""
+SGR_RND_sonder_researched_tt:0 "Необходимо иметь £GFX_science_icon §Tтехнологию§! "§YНовая телеграфная система§!""
+SGR_RND_bugs_researched_tt:0 "Необходимо иметь £GFX_science_icon §Tтехнологию§! "§YЖучки модели 31211-5§!""
+SGR_RND_radio_researched_tt:0 "Необходимо иметь £GFX_science_icon §Tтехнологию§! "§YПерсональное радио UFT-421§!""
+SGR_RND_ent_researched_tt:0 "Необходимо иметь £GFX_science_icon §Tтехнологию§! "§YРазведывательные спутники ENTDECKER§!""
+SGR_RND_cipher_researched_tt:0 "Необходимо иметь £GFX_science_icon §Tтехнологию§! "§YШифровальная машина М-190§!""
+SGR_RND_truth_researched_tt:0 "Необходимо иметь £GFX_science_icon §Tтехнологию§! "§YСыворотка правды§!""
+SGR_RND_camera_researched_tt:0 "Необходимо иметь £GFX_science_icon §Tтехнологию§! "§YМодифицированная камера RS 50§!""
 
-SGR_RND_mission_success_tt:0 "§Gthe mission succeeding, granting us insight into the country§!"
-SGR_RND_mission_failure_tt:0 "§Rthe mission failing§!"
+SGR_RND_mission_success_tt:0 "§Gуспешное выполнение миссии§!"
+SGR_RND_mission_failure_tt:0 "§Rмиссия провалена§!"
 
-SGR_RND_entdecker_bonus_tt:0 "§TMission Success Chance§! will temporarily increase by §Y5%§!."
+SGR_RND_entdecker_bonus_tt:0 "§TШанс успешного выполнения миссий§! увеличится на §Y5%§!."
 
-SGR_RND_thailand_foothold_tt:0 "§WA foothold has been established in the [SIA.GetName]§!"
-SGR_RND_burgundy_foothold_tt:0 "§WA foothold has been established in §PBurgundy§!§!"
-SGR_RND_usa_foothold_tt:0 "§WThe RND has had initial success in infiltrating the [USA.GetName]§!"
+SGR_RND_thailand_foothold_tt:0 "§Wплацдарм в [SIA.GetName]§!"
+SGR_RND_burgundy_foothold_tt:0 "§Wплацдарм в §PБургундии§!§!"
+SGR_RND_usa_foothold_tt:0 "§Wпервое успешное проникновение ИСБ в [USA.GetName]§!"
 
-SGR_RND_mission_success_increase_tt:0 "This will increase our §TMission Success Chance§!."
-SGR_RND_burgundy_final_success_tt:0 "Knowledge of these §P'Globalplans'§! will come in handy, surely."
+SGR_RND_mission_success_increase_tt:0 "Это увеличит наши шансы на §Tуспешное выполнение миссий§!."
+SGR_RND_burgundy_final_success_tt:0 "Знание этих §P'Глобалпланов'§!, несмоненно, пригодится нам в будущем."
  
 #Scripted Loc
 
@@ -134,87 +134,87 @@ GER_KIR_favor_owed:0 "Возвращение долга"
 SGR_RND_leader:0 "[GetRND_leadership]"
 SGR_RND_leader_desc_get:0 "[getRND_Leader_Desc]"
 
-SGR_Gehlen_RND_leader:0 "§YReinhard Gehlen§!"
-SGR_Gehlen_RND_leader_desc:0 "The greatest spymaster of the Cold War, the man responsible for victory in the shadows of World War Two, staunch supporter of the Reich against Bolshevists and Himmlerites alike - this is the reputation Reinhard Gehlen has carefully forged around himself, no matter what foreign eyes may say to the contrary.\n\n'Reinhard the Fox' or 'Kleiner Fuchs', as he goes by these days, is a man of many connections and accomplishments. His strong enmity with Heinrich Himmler since the days of Fremde Heere Ost and ambition to unify the German swamp of intelligence agencies into one led him to this very point, as the President of the Reichsnachrichtendienst.\n\nYet, just as in the Second World War, Germany is in danger - and just as Fremde Heere Ost was not sufficient to Gehlen then, the Reichsnachrichtendienst is only a stepping stone for him. It would be wise to not underestimate the Fox and his ambition."
+SGR_Gehlen_RND_leader:0 "§YРейнхард Гелен§!"
+SGR_Gehlen_RND_leader_desc:0 "Величайший шпион холодной войны, человек, принесший победу во Второй мировой войны, убежденный патриот Рейха и ярый противник большевиков и эсэсовцев - репутация, которую Рейнхард Гелен тщательно создал вокруг себя.\n\n Его вражда с Генрихом Гиммлером и стремление объединить немецкое болото разведывательных служб в одну организованную структуру привели его к должности главы Имперской Службы Безопасности.\n\nКак и во время Второй мировой войны, Германия находится в опасности - и Гелен один из немногих, кто может спасти Фатерлянд от надвигающейся угрозы. Однако было бы крайне глупо недооценивать Лиса и его преданность новому фюреру."
 
-SGR_Wessel_RND_leader:0 "§YGerhard Wessel§!"
-SGR_Wessel_RND_leader_desc:0 "There is no man who has influenced the German intelligence community as much as Reinhard Gehlen, and no man who aided him more than Gerhard Wessel. Friends and colleagues since the days of Fremde Heere Ost, Wessel soon distinguished himself as a man of iron stoicism, yet eloquent demeanor and sharp mind. Too sharp even for his former friend, in the end.\n\nFar from an ideologue, Wessel's leading principle is safety and stability for the Reich and the German people. This also means doing away with the Reichsnachrichtendienst's nature as a shady cabal it gained under Gehlen, instead transforming it into a service that is truly determined to protect not only the Führer or the Party but Germans as a whole.\n\nIn removing Gehlen from his control over the Reichsnachrichtendienst, the Reich gained - and the Führer, perhaps, lost. It remains to be seen if Wessel's loyalty to the people may bring him into conflict with the Führer."
+SGR_Wessel_RND_leader:0 "§YГерхард Вессель§!"
+SGR_Wessel_RND_leader_desc:0 "Нет человека, который оказал бы большее влияние на немецкую разведку, чем Рейнхард Гелен, и нет человека, который помог бы ему в этом больше, чем Герхард Вессель. Друзья и коллеги со времен Второй Мировой, Вессель, в конце концов, стал слишком резок даже для своего бывшего друга.\n\nДалекий от политики, Гессель превратил ИСБ из теневой кабалы в службу, которая полна решимости защищать не только фюрера и его партию, но и всех немцев в целом.\n\nСместив Гелена с поста главы ИСБ, остается только гадать, не приведет ли верность Весселя простому народу к конфликту с фюрером"
 
 #GUI
 
-SGR_RND_Budgetname:0 "§gBUDGET§!"
-SGR_RND_Trainingname:0 "§RTRAINING§!"
-SGR_RND_RandDname:0 "§TRESEARCH AND DEVELOPMENT§!"
+SGR_RND_Budgetname:0 "§gБЮДЖЕТ§!"
+SGR_RND_Trainingname:0 "§RОПЫТ§!"
+SGR_RND_RandDname:0 "§TИССЛЕДОВАНИЯ§!"
 
 SGR_RND_Budget:0 "§G[?RND_budget]M$§!"
 SGR_RND_Budget_Investment:0 "§Y[?RND_investment|Y^0]M$§!"
-SGR_RND_Investbutton:0 "§YInvest§!"
+SGR_RND_Investbutton:0 "§YИНВЕСТИРОВАТЬ§!"
 
-SGR_RND_Recruit:0 "§YRecruit§!"
-SGR_RND_expertise_status:0 "§REXPERTISE§!: [?RND_training_lvl|W0]§W%§!£GFX_training_icon"
+SGR_RND_Recruit:0 "§YТРЕНИРОВАТЬ§!"
+SGR_RND_expertise_status:0 "§RКОЛ-ВО§!: [?RND_training_lvl|W0]§W%§!£GFX_training_icon"
 
 SGR_RND_Research:0 "[getRNDResearchState]"
 SGR_RND_Research_complete:0 "[getRNDwindowresearch]"
-SGR_RND_Research_inactive:0 "§RPICK RESEARCH§!"
-SGR_RND_Research_active:0 "Researching §Y[getRNDResearch]§! [?RND_research_progress_percentage|%1W]£GFX_science_icon"
+SGR_RND_Research_inactive:0 "§RВЫБРАТЬ ИССЛЕДОВАНИЕ§!"
+SGR_RND_Research_active:0 "Изучается §Y[getRNDResearch]§! [?RND_research_progress_percentage|%1W]£GFX_science_icon"
 
 #Technologies
 
-RND_research_window_title:0 "ABTEILUNG TECHNISCHE AUFKLÄRUNG"
-RND_research_window_subtitle:0 "Pick research below."
+RND_research_window_title:0 "ОТДЕЛ ТЕХНИЧЕСКОЙ РАЗВЕДКИ"
+RND_research_window_subtitle:0 "Выберите исследование из списка ниже."
 
 
 ##Recon/Surveillance
-RND_research_row1:0 "§WCOMMUNICATION AND SURVEILLANCE§!"
+RND_research_row1:0 "§WСВЯЗЬ И НАБЛЮДЕНИЕ§!"
 
-RND_tech_1:0 "Modernized Fm/EloAufkl"
-RND_tech_2:0 "Sonderblindfunkdienst"
-RND_tech_3:0 "ENTDECKER Recon Satellites"
-RND_tech_4:0 "31211-5 Bugs"
-RND_tech_5:0 "M-190 Cipher Machine"
+RND_tech_1:0 "Новая электроразведка"
+RND_tech_2:0 "Новая теле-система"
+RND_tech_3:0 "Развед. спутники"
+RND_tech_4:0 "Жучки модели 31211-5"
+RND_tech_5:0 "Шифр. машина М-190"
 
 ##Personal Equipment
-RND_research_row2:0 "§WEQUIPMENT AND TRAINING§!"
+RND_research_row2:0 "§WОСНАЩЕНИЕ И ОБУЧЕНИЕ§!"
 
-RND_tech_6:0 "Nahkampf Training"
-RND_tech_7:0 "UFT-421 Personal Radio"
-RND_tech_8:0 "RS 50 Modified Camera"
-RND_tech_9:0 "Flecktarn B Camouflage"
-RND_tech_10:0 ""Truth Serum""
+RND_tech_6:0 "Рукопашный бой"
+RND_tech_7:0 "Персональное радио"
+RND_tech_8:0 "Улучшенная камера"
+RND_tech_9:0 "Пятнистый камуфляж B"
+RND_tech_10:0 ""Сыворотка правды""
 
 #Tooltips
 
-RND_investment_tt:0 "§YInvesting§! into the §gBudget§! will enhance both §RTraining§! and §TR&D§! growth speeds.\n\n§WAvailable twice a month§!."
-RND_budget_tt:0 "The RND's §gBudget§! is used directly to finance §PSpecial Missions§!, §TResearch and Development§! and ordinary missions. The higher it is the stronger the passive effect on §TResearch speed§! and §RTraining speed§! becomes."
+RND_investment_tt:0 "§YИнвестиции§! в §gбюджет§! повысят как скорость прироста §Rопыта§!, так и скорость §Tисследований и разработок§!.\n\n§WДоступно два раза в месяц§!."
+RND_budget_tt:0 "§gБюджет§! ИСБ используется для финансирования §Pспециальных миссий§!, §Tисследований и разработок§! и проведения обычных миссий. Чем выше бюджет, тем сильнее пассивное воздействие на §Tскорость исследования§! и §Rприрост опыта§!."
 
 ##Tech tooltips
 
-RND_tech_1_tt:0 "§YModernized Fm/EloAufkl§!\n\n§RCOST: 100M USD§!\n§G+5% Missions Success Chance§!\n§G+2.5% Political Power Growth Factor§!"
-RND_tech_1_tt_delayed:0 "'Fernmelde- und Elektronische Aufklärung' - known in the Anglophone world as §WSignals Intelligence (SIGINT)§! - is the art of intercepting signals for intelligence-gathering. Already having played a significant role during the Second World War, the importance of SIGINT has only increased since then. Now that the world finds itself in a Cold War between Germania and her jealous adversaries, retrieving intelligence from them is of paramount importance. The RND will invest into a massive modernization campaign of its SIGINT capabilities - soon, the Reich can listen in on everyone, everywhere."
+RND_tech_1_tt:0 "§YУлучшеная электроразведка§!\n\n§RЦена: 100M USD§!\n§G+5% к шансу успеха миссий§!\n§G+2.5% к приросту политической власти§!"
+RND_tech_1_tt_delayed:0 "'Телекоммуникационная и электронная разведка' - известная в англоязычном мире как Signals Intelligence (SIGINT) - это искусство перехвата сигналов для сбора разведданных. Уже сыграв значительную роль во время Второй мировой войны, значение SIGINT для разведки с тех пор только возросло. Теперь, когда мир оказался в состоянии холодной войны между Германией и ее ревнивыми противниками, получение разведданных имеет для нас первостепенное значение. ИСБ будет вкладывать деньги в масштабную кампанию по модернизации своих возможностей радиоразведки, чтобы науши уши могли подслушать всех и везде."
 
-RND_tech_2_tt:0 "§YSonderblindfunkdienst§!\n\n§RCOST: 75M USD§!\n§G+5% Missions Success Chance§!\n§G+0.05 Army Organization Factor§!"
-RND_tech_2_tt_delayed:0 "The Sonderblindfunkdienst, or §WSpecial Binary Telegraph System Service§!, is a part of the proposed Schnellbahn system initiative in the RND. Transmitting information world wide to agents in form of Morse code is only one part of the systems proposed - repeated, encoded messages on all frequencies under the Schnellinformationsdienst and Harpune radio receivers for RND agents across the globe is the full span of it. An ambitious project, but one that is desperately needed in the face of the state of the world."
+RND_tech_2_tt:0 "§YНовая телеграфная система§!\n\n§RЦена: 75M USD§!\n§G+5% к шансу успеха миссий§!\n§G+0.05 к скорости восстановления дивизий§!"
+RND_tech_2_tt_delayed:0 "Зондерблиндфункдинст, или §Специальная служба двоичной телеграфной системы§!, это часть амбициозного проекта ИСБ для охвата всего земного шара. Передача информации через азбуку Морзе, с закодированными сообщениями на рандомных частотах сможет принять и расшифровать любой агент ИСБ, находящийся в любой точке нашего земного шара. Это амбициозный проект, но именно такой, который отчаянно необходим нам перед лицом состояния нанешнего мира."
 
-RND_tech_3_tt:0 "§YENTDECKER Recon Satellites§!\n\n§RCOST: 150M USD§!\n§G+5% Missions Success Chance§!\n§G+1 RND Research Speed§!£GFX_science_icon."
-RND_tech_3_tt_delayed:0 "Germany won the space race in 1962, yet she still has to make use of the full breadth of opportunities the 'Final Frontier' offers. It does not take a genius to realize the potential in space-based surveillance of the Reich's enemies - far out of range of their ability to intervene, and as such able to observe them in peace. quipped with 24-inch focal length cameras and several thousand feet of film, these probes will be launched into space and take photographs of our enemies' lands, to be recovered following mission end by plane."
+RND_tech_3_tt:0 "§YРазведывательные спутники ENTDECKER§!\n\n§RЦена: 150M USD§!\n§G+5% к шансу успеха миссий§!\n§G+1 к скорости исследований ИСБ§!£GFX_science_icon."
+RND_tech_3_tt_delayed:0 "Германия выиграла космическую гонку в 1962 году, но она все еще должна использовать всю широту возможностей, которые предлагает "Последний рубеж". Не нужно быть гением, чтобы осознать потенциал космической слежки за врагами Рейха - далеко за пределами их способности вмешиваться и наблюдать за ними в мирное время. Оснащенные 24-дюймовыми камерами с фокусным расстоянием и несколькими тысячами футов пленки, эти зонды будут запущены в космос и сфотографируют наших врагов, чтобы быть восстановленными и вновь готовыми к работе после завершения своей миссии."
 
-RND_tech_4_tt:0 "§Y31211-5 Bugs§!\n\n§RCOST: 25M USD§!\n§G+2.5% Political Power Growth Factor§!\n§G+1 RND Research Speed§!£GFX_science_icon."
-RND_tech_4_tt_delayed:0 "Second generation transmitters working on Band IV UHF frequencies, the §W31211-5 Covert RF Listening Devices§!, or bugs, are the latest in design by the RND. Intended for overhearing conversations in ordinary rooms, these devices can be hidden in most pieces of furniture with relative ease. Despite that and its simple make-up, the 31211-5 bugs carry a powerful and sensitive audio-amplifier and dynamic microphone able to record conversations easily and clearly. No secrets will remain hidden from the Reich anymore."
+RND_tech_4_tt:0 "§YЖучки модели 31211-5§!\n\n§RЦена: 25M USD§!\n§G+2.5% к приросту политической власти§!\n§G+1 к скорости исследований ИСБ§!£GFX_science_icon."
+RND_tech_4_tt_delayed:0 "Передатчики второго поколения, работающие на частотах IV диапазона УВЧ, §WСкрытые радиочастотные подслушивающие устройства 31211-5§!, или Жучки, являются последними разработками ИСБ. Предназначенные для подслушивания разговоров в обычных комнатах, эти устройства могут быть с относительной легкостью спрятаны в большинстве предметов мебели. Несмотря на их простую конструкцию, жучки 31211-5 несут мощный и чувствительный аудиоусилитель и динамический микрофон, способный легко и четко записывать разговоры наших врангов. Никакие секреты больше не останутся скрытыми от Рейха."
 
-RND_tech_5_tt:0 "§YM-190 Cipher Machine§!\n\n§RCOST: 50M USD§!\n§G+2 Expertise Growth§!£GFX_training_icon \n§G+0.5 RND Research Speed§!£GFX_science_icon."
-RND_tech_5_tt_delayed:0 "A one-time tape-based cipher machine developed by §TSiemens§!, the M-190 is a mixer-class device. It is not classified - that is because the device itself is not enough to crack the cipher. What is needed to solve any cipher with the machine is an appropriate §WOne-Time-Tape§!, which is always destroyed right at the end of the information exchange. Intended for usage with a teleprinter device, the M-190 can operate both offline and online. A significant advancement on all accounts from the Second World War's T-43."
+RND_tech_5_tt:0 "§YШифровальная машина М-190§!\n\n§RЦена: 50M USD§!\n§G+2 к приросту опыта§!£GFX_training_icon \n§G+0.5 к скорости исследований ИСБ§!£GFX_science_icon."
+RND_tech_5_tt_delayed:0 "Одноразовая ленточная шифровальная машина, разработанная компанией §TСименс§!, представляет из себя устройство микшерного класса. Это устройство не засекречено потому, что одного этого устройства недостаточно, чтобы взломать шифр. То, что необходимо для решения любого шифра - это соответствующая §Wодноразовая лента§!, которая всегда уничтожается после обмена информацией. Предназначенная для использования с устройством телепринтера, М-190 может работать как в автономном режиме, так и в режиме онлайн. Значительное продвижение по всем статьям от Т-43 времен Второй мировой войны."
 
-RND_tech_6_tt:0 "§YNahkampf Training§!\n\n§RCOST: 30M USD§!\n§G+5% Mission Success Chance§!\n§G+2 RND Expertise Growth§!£GFX_training_icon."
-RND_tech_6_tt_delayed:0 "In a world of infiltration and espionage, a fist to the face is sometimes still the best solution when it comes to a life or death situation. Military, espionage, even police forces across the world have adopted martial arts or even developed their own in response. The art of deftly taking control over an enemy in close quarters combat can prove useful in many situations, ones the RND's agents are likely to experience at one point or another as well. If so, all they must do is try to remember some of the basics of Nahkampf..."
+RND_tech_6_tt:0 "§YОбучение рукопашному бою§!\n\n§RЦена: 30M USD§!\n§G+5% к шансу успеха миссий§!\n§G+2 к приросту опыта§!£GFX_training_icon."
+RND_tech_6_tt_delayed:0 "В мире разведки и шпионажа кулак в лицо противника все еще является лучшим решением, когда речь заходит о жизни и смерти. Военные, шпионы, даже полицейские силы по всему миру приняли на вооружение боевые искусства или даже специально разработали свои собственные. Искусство ловкого захвата противника в ближнем бою может оказаться полезным во многих ситуациях, которые агенты ИСБ, так или иначе, испытают в какой-то жизненно важный момент. Если это так, все, что они должны сделать, это попытаться вспомнить некоторые основы рукопашного боя..."
 
-RND_tech_7_tt:0 "§YUFT-421 Personal Radio§!\n\n§RCOST: 60M USD§!\n§G+10% Mission Success Chance§!\n§G+2 RND Expertise Growth§!£GFX_training_icon."
-RND_tech_7_tt_delayed:0 "The UFT-421 is a body-wearable covert transceiver for concealed use. Hidden under the agent's cloths, the device can be operated with a remote control unit; a simplex radio with four channels, it is poised to be an indispensible tool for undercover agents both in and outside Germany."
+RND_tech_7_tt:0 "§YПерсональное радио UFT-421§!\n\n§RЦена: 60M USD§!\n§G+10% к шансу успеха миссий§!\n§G+2 к приросту опыта§!£GFX_training_icon."
+RND_tech_7_tt_delayed:0 "UFT-421-это носимый на теле секретный трансивер для скрытого использования. Спрятанное под одеждой агента, устройство может управляться с помощью пульта дистанционного управления; симплексное радио с четырьмя каналами, оно готово стать незаменимым инструментом для тайных агентов как в Германии, так и за ее пределами."
 
-RND_tech_8_tt:0 "§YRS 50 Modified Camera§!\n\n§RCOST: 20M USD§!\n§G+5% Mission Success Chance§!\n§G+1 RND Expertise Growth§!£GFX_training_icon."
-RND_tech_8_tt_delayed:0 "The Robot Star 50 is an almost ordinary clockwork camera, distinguished particularly by its compactness and being able to take fifty exposures. However, when modified appropriately, the camera displays another key feature - it is exceptionally silent. Being so small, so silent and able to take so many pictures makes the modified design of the RS 50 a very promising tool for covert agents."
+RND_tech_8_tt:0 "§YМодифицированная камера RS 50§!\n\n§RЦена: 20M USD§!\n§G+5% к шансу успеха миссий§!\n§G+1 к приросту опыта§!£GFX_training_icon."
+RND_tech_8_tt_delayed:0 "RS 50 - это почти обычная механическая камера, отличающаяся, в частности, своей компактностью и способностью делать пятьдесят снимков. Однако при соответствующей модификации камера имеет еще одну ключевую особенность - она исключительно бесшумна. Будучи такой маленькой, бесшумной и способной делать так много снимков, модифицированная конструкция RS 50 является очень многообещающим инструментом для тайных агентов."
 
-RND_tech_9_tt:0 "§YFlecktarn B Camouflage§!\n\n§RCOST: 50M USD§!\n§G+5% Mission Success Chance§!\n§G+2.5% Army Defence Factor§!"
-RND_tech_9_tt_delayed:0 "Strictly seen a development by the Wehrmacht to be adopted by the RND for its field agents, Flecktarn B camouflage is a computer-aided evolution of the camouflage patterns developed before and during the Second World War. Optically similar to the patterns used by the SS at the time, it can be adapted to different environments and is certain to bring about considerable aid in the concealment of RND field agents."
+RND_tech_9_tt:0 "§YПятнистый камуфляж B§!\n\n§RЦена: 50M USD§!\n§G+5% к шансу успеха миссий§!\n§G+2.5% к обороне дивизий§!"
+RND_tech_9_tt_delayed:0 "Строго рассматриваемый как разработка Вермахта, которая был принята на вооружение ИСБ для своих полевых агентов, пятнистый камуфляж B представляет из себя компьютерную эволюцию моделей камуфляжа, разработанных до и во время Второй мировой войны. Оптически схожий с образцами, используемыми СС, он может быть адаптирован к различным условиям и, несомненно, принесет значительную помощь в сокрытии полевых агентов ИСБ."
 
-RND_tech_10_tt:0 "§Y"Truth Serum"§!\n\n§RCOST: 30M USD§!\n§G+5% Mission Success Chance§!\n§G+1 RND Research Speed§!£GFX_science_icon."
-RND_tech_10_tt_delayed:0 "Research suggests that the mental process of constructing a lie is more complex than telling the truth. Should this be the case, then clouding the minds of potential liars should make it harder for them to lie - therefore, perhaps, make it more likely for them to resort to telling the truth. One such way to cloud their minds would be through barbiturates, the same ones used as general anesthetics, applied in just the right dosage. It is not quite the "truth serum" one could hope to have, but it is close enough."
+RND_tech_10_tt:0 "§Y"Сыворотка правды"§!\n\n§RЦена: 30M USD§!\n§G+5% к шансу успеха миссий§!\n§G+1 к скорости исследований ИСБ§!£GFX_science_icon."
+RND_tech_10_tt_delayed:0 "Исследования показывают, что мыслительный процесс конструирования лжи более сложен, чем произнесение правды. Если это так, то затуманивание умов потенциальных лжецов должно затруднить им способность прибегнуть ко лжи, а значит увеличит шанс на произнесении правды. Один из таких способов затуманить их разум - это барбитураты в правильной дозировке, те же самые, что используются в качестве общих анестетиков. Это не совсем та "сыворотка правды", на которую можно было бы надеяться, но она показывает неплохие результаты."
