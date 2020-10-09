@@ -142,8 +142,8 @@
  SGR_propaganda_nothing:0 "§OКАМПАНИЯ ДОСТУПНА§!"
 
  SGR_launch_button_tt:0 "Текущая §WПропагандистская кампания§! дает следующие эффекты:\n\n-Прирост политической власти: [?SGRPropagandaPPDisplay|+%]\n-Еженедельное изменение стабильности: [?SGRPropagandaStabDisplay|+%]\n[getSGRPropagandaOutlook]\n[getSGRPropagandaRegime]"
- SGR_reformist_regime_prop_display:0 "Сейчас режим склоняется к §Gреформистам§!: [?SGRPropagandaReformistTickDisplay|+0]"
- SGR_conservative_regime_prop_display:0 "Сейчас режим склоняется к §Rконсерваторам§!: [?SGRPropagandaReformistTickDisplay|-0]"
+ SGR_reformist_regime_prop_display:0 "Сейчас режим склоняется к §Gреформистам§! на [?SGRPropagandaReformistTickDisplay|+0]"
+ SGR_conservative_regime_prop_display:0 "Сейчас режим склоняется к §Rконсерваторам§! на [?SGRPropagandaReformistTickDisplay|-0]"
  SGR_reformist_outlook_prop_display:0 "£social_outlook_texticon §TОбщественное мнение§! §Gрастет§!: [?SGRReformistVarDisplay|+0]"
  SGR_conservative_outlook_prop_display:0 "£social_outlook_texticon §TОбщественное мнение§! §Rпадает§!: [?SGRConservativeVarDisplay|-0]"
 
