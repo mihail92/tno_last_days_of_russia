@@ -242,11 +242,11 @@
  MAG_WA_republic_regional_unifier_social_democrat_DEF:0 "Сибирская Республика"
  MAG_WA_republic_regional_unifier_social_democrat_ADJ:0 "Сибирск"
  
- OMO_father_men_despotism:0 "Сибирская Священный Мандат"
- OMO_father_men_despotism_DEF:0 "Сибирская Священный Мандат"
+ OMO_father_men_despotism:0 "Сибирский Священный Мандат"
+ OMO_father_men_despotism_DEF:0 "Сибирский Священный Мандат"
  OMO_father_men_despotism_ADJ:0 "Сибирск"
- OMO_regional_unifier_despotism:0 "Сибирская Священный Мандат"
- OMO_regional_unifier_despotism_DEF:0 "Сибирская Священный Мандат"
+ OMO_regional_unifier_despotism:0 "Сибирский Священный Мандат"
+ OMO_regional_unifier_despotism_DEF:0 "Сибирский Священный Мандат"
  OMO_regional_unifier_despotism_ADJ:0 "Сибирск"
  
  WCH_regional_unifier_social_liberal:0 "Дальневосточное Царство"
