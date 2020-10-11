@@ -120,7 +120,7 @@
  SGR_stab_malus_med:0 "§WНаша £GFX_regime_stability_texticon §Yстабильность режима§! §Rуменьшится§! на §R5%§!\n§!"
  SGR_stab_malus_big:0 "§WНаша £GFX_regime_stability_texticon §Yстабильность режима§! §Rуменьшится§! на §R10%§!\n§!"
  SGR_stab_malus_15:0 "§WНаша £GFX_regime_stability_texticon §Yстабильность режима§! §Rуменьшится§! на §R15%§!\n§!"
- SGR_stab_malus_huge:0 "§WOur £GFX_regime_stability_texticon §Yстабильность режима§! §Rуменьшится§! by §x50%§!!\n§!"
+ SGR_stab_malus_huge:0 "§WНаша £GFX_regime_stability_texticon §Yстабильность режима§! §Rуменьшится§! на §x50%§!!\n§!"
 
  SGR_regime_stab:0 "§W£GFX_regime_stability_texticon §YСтабильность режима§! нужно срочно вернуть на отметку §Y30%§!!§!"
  SGR_collapse_averted:0 "§WКрах режима был предотвращен.§!"
