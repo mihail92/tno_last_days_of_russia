@@ -18,7 +18,7 @@ SGR_siemens_expository_text:0 "§WЭрнст фон Сименс§! выделя
 
 #Frontscreen Metrics
 
-SGR_GDP_entry_1:0 "ВВП Цольверайна: [?reich_GDP|2|W]§WB§!|[?zollvereinGDP_growth|%W2]"
+SGR_GDP_entry_1:0 "ВВП Цольверайна: [?reich_GDP|2|W] §WB§!|[?zollvereinGDP_growth|%W2]"
 SGR_slave_entry_scripted_loc:0 "[getSGRSlaveryStatus]"
 SGR_slave_entry_1:0 "Количество рабов: [?Reich_SlavesNum_m|3|R] §Rмил.§!"
 SGR_slavery_abolished_entry:0 "§GРАБСТВО ОТМЕНЕНО§!"
@@ -26,8 +26,8 @@ SGR_workforce_entry_1:0 "Свободные рабочие: [?displayCurrentWork
 
 #Overview scripted loc
 
-SGR_ranking_gdp_entry:0 "§G$[?econRankingGDP^i|G]B§!"
-SGR_ranking_gdp_entry_ZV:0 "§G$[?ZV_members^i.GDP_billion|G]B§!"
+SGR_ranking_gdp_entry:0 "§G$[?econRankingGDP^i|G] млрд§!"
+SGR_ranking_gdp_entry_ZV:0 "§G$[?ZV_members^i.GDP_billion|G] млрд§!"
 
 SGR_econ_overview:0 "Формально §QЦольверайн§! - это общий и справедливый рынок между большинством стран и территорий, входящих в состав §gПакта Единства§!. Де-факто это экономическая сфера §gРейха§!, где все еще далеко от равенства. Практически вся восточноевропейская промышленность находится в руках немцев, поскольку до не давнего времени восточные рейхкомиссариаты были не более чем немецкими колониальными админинстрациями. §RГенералплан Ост§! и другие глупые решения разрушили большую часть экономики востока; однако его потенциал в ресурсах и рабочей силе до сих пор является достаточно высоким. Упразднив рабство и сделав огромные инвестиции в восток, §QЦольверайн§! может превратиться в один из крупнейших экономических блоков на земле.\n\nЧтобы у §gРейха§! было будущее."
 
