@@ -7,6 +7,7 @@
  ANG_CIVIL_WAR_despotism:0 "УНИТА"
  ANG_CIVIL_WAR_despotism_DEF:0 "Национальный союз за полную независимость Анголы"
 
+
  ANG_SKL_Mission_Activated:0 "Мы не используем СКЛ для исследований"
  ANG_SKL_Industrial_Mission_Activated:0 "Мы не используем СКЛ для производства"
  ANG_Wolfgang_Schenck_dep:0 "Вольфганг Шенк"
@@ -37,15 +38,19 @@
  ANG_German_support:0 "Воздушная Империя"
  ANG_Fighter_Plans:0 "Новая лига истребителей"
 
-##################################################
-#########################    Decisions
+
+
 ##################################################
 
+#########################    Decisions
+
+##################################################
  ANG_Cashmoney:0 "The African Airstrip"
  ANG_Cashmoney_desc:0 "Although Südwestafrika's economy is the most lacking of the three African Reichskommissariats, mainly due to Reichskommissar Schenck's disinterest in further developing it, Südwestafrika is not without its sources of income. Thanks to its location and administration, Südwestafrika has become an important staging ground for Luftwaffe airplanes sent on missions across the entire continent, be they bombing training on African civilians or simply patrols meant to intimidate South Africa.\n\nOur position as the masters of the Afrikaner Luftwaffe grants us a large freedom of action, and the possibility to obtain funds through simplified channels compared to the other Reichskommissariaten. Of course, we can use this to our advantage and for the good of Angola, subtracting both money and resources for the development of the region.\n\nHowever, everything comes at a price. The Reich is starving, and the grip on the colonies will tighten more and more as they try to squeeze us dry to fuel their dying economy. As such, our "creative accounting techniques" must be used with great caution: the more inconsistencies are found within our numbers, the more likely we are to be put under serious scrutiny. And we all know what the consequences of our plans being discovered will be...\n\nCurrently, we have §Y[?ANG_Liquid_Cash] million USD§! in investment funds.\n\nCurrently, we will have to send§Y [?ANG_German_Collection] million USD§! to Germany each collection period.\n\nAs of right now, Germany is currently [GetANGGermanDispleasure] displeased with us"
 
 ANG_Cash_Monthly:0 "Monetary Deliveries"
 ANG_Pre_SAW_Fucking_Germany:0 "We are not currently doing anything with our operation"
+
 
 ANG_Prioritized_Runways:0 "By giving priority to Müller's cargo, mostly lucrative goods produced by the corporations supporting him, he'll give us our share of the pie, which will help us greatly with our economic plans.\nOf course, the fact that we are ignoring the Vaterland's requests to take their supplies and bombs in our planes will have consequences, so we should expect a backlash in some form."
 ANG_Redirect_Traffic_tt:0 "By allowing priority landing to luxury flights, or to the private airplanes of the wealthy few who can pay the additional "priority fee" to our administration, we'll increase our income by a nice amount.\nIs this a racket? Perhaps. Will the Reich be angry? Most likely. Will this bring us lots and lots of money? Sure as hell!"
@@ -62,6 +67,7 @@ ANG_Market_Build_Roads_tt:0 "As with all Reichskommissariaten, the state of our 
 ANG_Market_Build_factories:0 "The Reich's ailing economy is desperately looking for untapped markets or manpower pools to exploit. Until now, Südwestafrika has remained outside of the radar for most major corporations: by letting them know of our existence, we might be able to convince them to set up subsidiaries here. For the glory of the Vaterland, of course!\n\n"
 ANG_Market_Build_bombs:0 "Our military industry can hardly keep up with the demands of both our garrison and the Afrikaner Luftwaffe. If we want to ensure we can supply our forces to the fullest, we need to convince the Reich to open up new production plants in our lands, or we'll risk total collapse should we be cut off from the supplies sent by the mainland.\n\n"
 
+
 ANG_buy_steel_from_germany:0 "Купить сталь в Германии"
 ANG_buy_aluminium_from_germany:0 "Купить алюминий в Германии"
 ANG_buy_rubber_from_germany:0 "Купить резину в Германии"
@@ -73,8 +79,7 @@ ANG_Increase_Transportation_Capability:0 "Расширить взлётные п
 ANG_Skim_A_Lot:0 "Сильно разбавить топливо"
 ANG_Skim_A_Little:0 "Разбавить топливо"
 
-####### Market
-
+### MARKET
 ANG_The_Market:0 "Рынок"
 ANG_The_Market_desc:0 "Вся наша экономика есть лишь средство к достижению нашей цели. Средства, которые мы получаем из Германии и из рук частных инвесторов, нужны лишь для того чтобы улучшить положение в Анголе и подготовки к страны к её независимости. Если мы сможем развить колонию с помощью легальных мер, Фатерланд будет только рад финансировать наши проекты…\n\nМы можем торговать с немецкими и иностранными компаниями на мировом рынке с помощью ресурсов, что мы добываем, и финансов, что мы получаем. Продавая ресурсы за рубеж и покупая там же то, что нам необходимо, мы сможем многократно ускорить экономический рост Анголы. И чем больше мы инвестируем, тем больше возможностей открывается для дальнейших инвестиций. "
 ANG_request_civilian_investment:0 "Подкупить гражданских инвесторов"
@@ -86,7 +91,6 @@ ANG_Liquid_Cash_Gain_2:0 "Это принесёт нам §Y2 миллиона �
 ANG_Liquid_Cash_Gain_3:0 "Это принесёт нам §Y3 миллиона долларов§! в инвестиционных средствах\n\n"
 ANG_Liquid_Cash_Gain_4:0 "Это принесёт нам §Y4 миллиона долларов§! в инвестиционных средствахs\n\n"
 ANG_Liquid_Cash_Gain_5:0 "Это принесёт нам §Y5 миллионов долларов§! в инвестиционных средствах\n\n"
-ANG_Liquid_Cash_Gain_6:0 "Это принесёт нам §Y6 миллионов долларов§! в инвестиционных средствах\n\n"
 ANG_Liquid_Cash_Gain_7:0 "Это принесёт нам §Y7 миллионов долларов§! в инвестиционных средствах\n\n"
 ANG_Liquid_Cash_Gain_10:0 "Это принесёт нам §Y10 миллионов долларов§! в инвестиционных средствах\n\n"
 
@@ -142,6 +146,9 @@ ANG_bomber_production:0 "Expanded Bomber Production"
 ANG_bomber_production_desc:0 "Prioritizing raw material deliveries and streamlining assembly at production facilities has greatly improved the efficiency of our bomber construction. Every day more and more bombers are rolling off the assembly lines and onto the runways."
 ANG_SKL_RD_Expanded:0 "Increased Research Funding"
 ANG_SKL_RD_expanded:0 "By diverting some of the budget to the funding of aircraft research, we have increased the rate of progress on several promising designs. Soon a new generation of planes shall rule the skies of Afrika!"
+
+
+
 ANG_Bomber_Plans:0 "A New League of Bombers"
 ANG_Bomber_Plans_desc:0 "New bomber designs are being incorporated into our air raiding fleets and the results are already apparent. The new aircraft perform notably better than their now outdated counterparts. Higher altitude ceilings and more accurate payload delivery have made these planes the crown jewel of our air fleet and the enemy's worst nightmare."
 ANG_fighter_plans:0 "A New League of Fighters"
@@ -152,32 +159,41 @@ ANG_SKL_Air_Exercises_desc:0 "Our pilots are undergoing extensive training to en
 
 ####### Dynamic Mod Stuff
 
- ANG_need_5_million_for_tree:0 "We must have §Y5 million USD§! to invest in this program before continuing down this path.\n\n"
- ANG_need_3_million_for_tree:0 "We must have §Y3 million USD§! to invest in this program before continuing down this path.\n\n"
 
-####### Repair
+ANG_need_5_million_for_tree:0 "We must have §Y5 million USD§! to invest in this program before continuing down this path\n\n"
+ANG_need_3_million_for_tree:0 "We must have §Y3 million USD§! to invest in this program before continuing down this path\n\n"
 
- ANG_repairyard_increase_vars:0 "This will increase our §YProduction Efficiency Cap and Growth§! by §G2.5%§!\n\n"
- ANG_repairyard_increase_vars_greatly:0 "This will increase our §YProduction Efficiency Cap and Growth§! by §G5%§!\n\n"
- ANG_upgrade_tooltip:0 "As we begin specializing in repair and construction, we will get a bonus to our §YProduction Efficiency Cap and Growth§!\n\n"
+### Repair
 
-####### Fueling
+ANG_repairyard_increase_vars:0 "This will increase our §YProduction Efficiency Cap and Growth§! by §G2.5%§!\n\n"
 
- ANG_fueling_increase_vars:0 "This will increase our §YMaximum Fuel as well as our Fuel Gain§! by §G2.5%§!\n\n"
- ANG_fueling_increase_vars_greatly:0 "This will increase our §YMaximum Fuel and Fuel Gain§! by §G5%§!\n\n"
- ANG_fueling_off_the_top:0 "£decision_icon_small §HDecisions§! to begin skimming our oil production will be unlocked\n\n"
- ANG_upgrade_fueling_tooltip:0 "As we begin building up our refineries and silos, we will get a bonus to our §YMaximum Fuel and Fuel Gain§!\n\n"
+ANG_repairyard_increase_vars_greatly:0 "This will increase our §YProduction Efficiency Cap and Growth§! by §G5%§!\n\n"
 
-####### Scrapyard
+ANG_upgrade_tooltip:0 "As we begin specializing in repair and construction, we will get a bonus to our §YProduction Efficiency Cap and Growth§!\n\n"
 
- ANG_mining_increase_vars:0 "This will increase our §YResource Gain§! by §G2.5%§!\n\n"
- ANG_mining_increase_vars_greatly:0 "This will increase our §YResource Gain§! by §G5%§!\n\n"
- ANG_upgrade_mining_tooltip:0 "As we begin building up the mines and infrastructure, we will get a bonus to our §YResource Gain§!\n\n"
- ANG_sell_the_gold:0 "£decision_icon_small §HDecisions§! to sell our excavated gold and diamonds to Germany will be unlocked\n\n"
 
-####### Afrika Miracle
+#### FUeling
+ANG_fueling_increase_vars:0 "This will increase our §YMaximum Fuel as well as our Fuel Gain§! by §G2.5%§!\n\n"
 
- ANG_Afrika_Mirakle_Tooltip:0 "§GGermania has been observing our progress with great pleasure, and is now ready to make a giant investment in our Reichskommissariat!§!\n\n"
+ANG_fueling_increase_vars_greatly:0 "This will increase our §YMaximum Fuel and Fuel Gain§! by §G5%§!\n\n"
+
+ANG_fueling_off_the_top:0 "£decision_icon_small §HDecisions§! to begin skimming our oil production will be unlocked\n\n"
+
+ANG_upgrade_fueling_tooltip:0 "As we begin building up our refineries and silos, we will get a bonus to our §YMaximum Fuel and Fuel Gain§!\n\n"
+
+
+#### Scrapyard
+
+ANG_mining_increase_vars:0 "This will increase our §YResource Gain§! by §G2.5%§!\n\n"
+ANG_mining_increase_vars_greatly:0 "This will increase our §YResource Gain§! by §G5%§!\n\n"
+
+ANG_upgrade_mining_tooltip:0 "As we begin building up the mines and infrastructure, we will get a bonus to our §YResource Gain§!\n\n"
+ANG_sell_the_gold:0 "£decision_icon_small §HDecisions§! to sell our excavated gold and diamonds to Germany will be unlocked\n\n"
+
+
+### Afrika Miracle
+
+ANG_Afrika_Mirakle_Tooltip:0 "§G Our masters in Germany have been observing our progress with great pleasure and a ready to make a giant investment in the nation!§!\n\n"
 
 
 
