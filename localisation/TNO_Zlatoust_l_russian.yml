@@ -313,7 +313,7 @@
  udm_black_market_buyer_towed_artillery_equipment_fulfill_desc:0 "[From.GetNameDef] has placed an order for §Y100§! units of §YArtillery Equipment§!. The equipment will be delivered after we accept the contract. Failing to accept the contract will result in a temporary stop to all orders from [From.GetNameDef]."
 
  UDM_Black_Market_Purchase_Foreign:0 "Купить снаряжение из Златоуста"
- UDM_Black_Market_Purchase_Foreign_desc:0 Благодаря нашему расположению в российских пустошах, мы можем воспользоваться услугами §YЗлатоуста§!."
+ UDM_Black_Market_Purchase_Foreign_desc:0 "Благодаря нашему расположению в российских пустошах, мы можем воспользоваться услугами §YЗлатоуста§!."
  udm_black_market_buyer_infantry_equipment:0 "Купить §YПехотное снаряжение§!"
  udm_black_market_buyer_infantry_equipment_desc:0 "§YЗлатоуст§! отправит нам §Y1000§! §YПехотного снаряжения§!. Старое снаряжени отправится первым."
  udm_black_market_buyer_support_equipment:0 "Купить §YДополнительное оснащение§!"
