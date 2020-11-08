@@ -5,4 +5,4 @@ tags={
 name="The New Order: The Last Days Of Russia"
 dependencies = { "The New Order: The Last Days Of Europe" }
 supported_version="1.10.*"
-path="mod/TNO_RU"
+path="mod/TNO_RUS"
