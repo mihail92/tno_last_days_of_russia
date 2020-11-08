@@ -1,32 +1,32 @@
 ﻿l_russian:
 
- RUS_reunification_category:0 "The Reunification of Russia"
- RUS_reunification_category_desc:0 "After the German pillagers have shattered the Motherland, what parts of Russia that have not fallen under the German yoke directly have shattered into a mass of disorderly warlords. However, our history teaches us that we are stronger when unified, and it is only when unified that we have a chance of standing against any enemies. It is necessary: The Motherland must rise again."
+ RUS_reunification_category:0 "Воссоединение России"
+ RUS_reunification_category_desc:0 "После того, как немецкие грабители разбили родину, вся Россия превратилась в массу беспорядочных государств-осколков. Однако наша история учит нас, что мы сильнее, когда едины. Только когда мы дкржимся вместе, у нас есть шанс выстоять против любых врагов. Это необходимо: Родина должна подняться снова."
 
- russian_total_reunification:0 "Re-Unify The Motherland"
+ russian_total_reunification:0 "Воссоединение Родины"
  russian_total_reunification_desc:0 ""
 
- russian_reunification:0 "Russian Re-Unification"
- siberian_reunification:0 "Siberian Re-Unification"
+ russian_reunification:0 "Воссоединение России"
+ siberian_reunification:0 "Воссоединение Сибири"
  
- can_form_west_russia_tt:0 "Controls all §YWestern Russia§! states\n"
+ can_form_west_russia_tt:0 "Контролировать все провинции в §YЗападной России§!\n"
  can_form_southern_urals_tt:0 "Controls all §YSouthern Urals§! states\n""
  can_form_west_siberia_tt:0 "Controls all §YWestern Siberia§! states\n"
  can_form_central_siberia_tt:0 "Controls all §YCentral Siberia§! states\n"
  can_form_far_east_tt:0 "Controls all §YFar Eastern§! states\n"
 
- west_siberia_launch_race_to_urals:0 "Exert Influence in the Southern Urals"
- west_russia_launch_race_to_urals:0 "Exert Influence in the Southern Urals"
- launch_race_to_kazakhstan:0 "Exert Influence in Kazakhstan"
- integrate_south_urals:0 "Send Ultimatum to Southern Urals"
- RUS_KAZ_is_compatible_tooltip:0 "Kazakhstan is Ideologically Compatible"
+ west_siberia_launch_race_to_urals:0 "Распространить влияние на Южный Урал"
+ west_russia_launch_race_to_urals:0 "Распространить влияние на Южный Урал"
+ launch_race_to_kazakhstan:0 "Распространить влияние на Казахстан"
+ integrate_south_urals:0 "Послать ультиматум Южному Уралу"
+ RUS_KAZ_is_compatible_tooltip:0 "Казахстан идеологически совместим"
 
  RUS_WSR_compatible_tt:0 "The §YWest Russian§! unifier is ideologically compatible with us.\n"
- RUS_WSB_compatible_tt:0 "The §YWest Siberian§! unifier is ideologically compatible with us.\n"
+ RUS_WSB_compatible_tt:0 "Объеденитель §YЗападной Сибири§! идеологически дружественен к нам.\n"
  RUS_CSB_compatible_tt:0 "The §YCentral Siberian§! unifier is ideologically compatible with us.\n"
  RUS_FST_compatible_tt:0 "The §YFar Eastern§! unifier is ideologically compatible with us.\n"
 
- RUS_diplo_action_executing:0 "We are currently executing a §Ydiplomatic action§!."
+ RUS_diplo_action_executing:0 "Мы уже совершаем §Yдипломтические действия§!."
 
  #Reuinification
  ###Peaceful Unification###
