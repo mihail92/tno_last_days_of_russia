@@ -1,10 +1,8 @@
-name="The New Order: Last Days Of Russia"
-path="mod/tno_last_days_of_russia/"
-dependencies = {
-	"The New Order: Last Days of Europe"
-}
+version="0.0.1"
 tags={
 	"Translation"
 }
-supported_version="1.9.*"
-
+name="The New Order: The Last Days Of Russia"
+dependencies = { "The New Order: The Last Days Of Europe" }
+supported_version="1.10.*"
+path="mod/TNO_RU"
