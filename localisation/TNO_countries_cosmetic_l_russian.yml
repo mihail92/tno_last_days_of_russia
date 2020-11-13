@@ -1053,7 +1053,7 @@
  SGR_CAU_provisional_government_fascism_desc:0 "Военная администрация Кавказа"
 
  UKR_SGR_military_rule_national_socialism:0 "Губерния Украина"
- UKR_SGR_military_rule_national_socialism_DEF:0 "Губерния der Украина"
+ UKR_SGR_military_rule_national_socialism_DEF:0 "Губерния Украина"
  UKR_SGR_reichskommissariat_national_socialism:0 "Рейхскомиссариат Украина"
  UKR_SGR_reichskommissariat_national_socialism_DEF:0 "Рейхскомиссариат Украина"
  UKR_SGR_collab_fascism:0 "Украина"
@@ -1067,8 +1067,8 @@
  POL_SGR_fascism:0 "Переходное правительство Польши"
  POL_SGR_fascism_DEF:0 "Польское Переходное Правительство"
 
- BEL_SGR_national_socialism:0 "Рейхскомиссариат Belgien"
- BEL_SGR_national_socialism_DEF:0 "Рейхскомиссариат Belgien"
+ BEL_SGR_national_socialism:0 "Рейхскомиссариат Бельгия"
+ BEL_SGR_national_socialism_DEF:0 "Рейхскомиссариат Бельгия"
  
  EST_SGR_authoritarian_democrat:0 "Балтийский Союз"
  EST_SGR_authoritatian_democrat_DEF:0 "Балтийская Федерация" 
@@ -1109,7 +1109,7 @@
  KUR_POSTUAR_communist:0 "Курдистан"
  HJZ_POSTUAR:0 "Хиджаз"
  JOR_POSTUAR_national_socialism:0 "Иордан"
- EGY_POSTUAR_despotism:0 ЕгипетEgypt"
+ EGY_POSTUAR_despotism:0 "Египет"
 
  KUW_authoritarian_democrat:0 "Кувейт"
 
