@@ -106,7 +106,7 @@
  UKR_autonomy_integrated_reichskommissariat_DEF:0 "Рейхскомиссариат Украина"
  UKR_GER_autonomy_reichsprotektorat:0 "Рейхспротекторат Украина"
  UKR_GER_autonomy_reichsprotektorat_DEF:0 "Рейхспротекторат Украина"
- UKR_GER_autonomy_autonomous_Рейхскомиссариат:0 "Рейхскомиссариат Украина"
+ UKR_GER_autonomy_autonomous_reichskommissariat:0 "Рейхскомиссариат Украина"
  UKR_GER_autonomy_autonomous_reichskommissariat_DEF:0 "Рейхскомиссариат Украина"
  UKR_GER_autonomy_integrated_reichskommissariat:0 "Рейхскомиссариат Украина"
  UKR_GER_autonomy_integrated_reichskommissariat_DEF:0 "Рейхскомиссариат Украина"
@@ -248,7 +248,7 @@
  GUL_ITA_authoritarian_democrat_autonomy_italy_governate:0 "Губернаторство Персидского залива"
  GUL_ITA_authoritarian_democrat_autonomy_italy_governate_DEF:0 "Губернаторство Персидского залива"
  GUL_ITA_authoritarian_democrat_autonomy_italy_puppet:0 "Губернаторство Персидского залива"
- GUL_ITA_authoritarian_democrat_autonomy_italy_puppet_DEF:0 Губернаторство Персидского залива"
+ GUL_ITA_authoritarian_democrat_autonomy_italy_puppet_DEF:0 "Губернаторство Персидского залива"
 
  ILG_ITA_fascism_autonomy_italy_protectorate:0 "Алжирская Военная Территория"
  ILG_ITA_fascism_autonomy_italy_protectorate_DEF:0 "Алжирская Военная Территория"
