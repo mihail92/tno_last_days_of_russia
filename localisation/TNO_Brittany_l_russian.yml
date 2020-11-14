@@ -955,12 +955,12 @@
  black_market_sales_info:0 "Sales Instructions"
  black_market_sales_info_desc:0 "How to sell items to foreign countries."
  
- BRT_Black_Market_Elimination:0 "Fighting Black Market Influence"
- BRT_Black_Market_Elimination_desc:0 "The Black Market has been running rampant for long enough. As our nation is now stable enough to combat the gangsters, it's high time we began removing them completely."
- decrease_black_market_presence:0 "Decrease Объём торговли оружием на Чёрном рынке"
- decrease_black_market_presence_desc:0 "Lower Объём торговли оружием на Чёрном рынке by one level. There are a total of four levels: §gLight§!, §YModerate§!, §OSubstantial§! and §eSevere§!. If our stability remains at above 50%, the Black Market will be unable to respond."
- decrease_black_market_presence_luxury:0 "Decrease Объем торговли предметами роскоши на Чёрном рынке"
- decrease_black_market_presence_luxury_desc:0 "Lower Объем торговли предметами роскоши на Чёрном рынке by one level. There are a total of three levels: §gLight§!, §YModerate§! and §OSubstantial§!. If our stability remains at above 50%, the Black Market will be unable to respond."
+ BRT_Black_Market_Elimination:0 "Борьба c влиянием черного рынка"
+ BRT_Black_Market_Elimination_desc:0 "Черный рынок процветает в нашей стране уже достаточно давно. Поскольку наш режим сейчас достаточно стабилен, чтобы бороться с гангстерами, пришло время начать их полное устранение."
+ decrease_black_market_presence:0 "Уменьшить объём торговли оружием на Чёрном рынке"
+ decrease_black_market_presence_desc:0 "Уменьшит объём торговли оружием на чёрном рынке на один уровень. Всего существует четыре уровня: §gНезначительный§!, §YУмеренный§!, §OСущественный§! и §eТяжелый§!. Если наша стабильность будет продолжать находится на уровне выше 50%, черный рынок не сможет отреагировать на наши действия."
+ decrease_black_market_presence_luxury:0 "Уменьшить объем торговли предметами роскоши на Чёрном рынке"
+ decrease_black_market_presence_luxury_desc:0 "Уменьшит объем торговли предметами роскоши на Чёрном рынке на один уровень. Всего существует три уровня: §gНезначительный§!, §YСущественный§! и §OТяжелый§!. Если наша стабильность будет продолжать находится на уровне выше 50%, черный рынок не сможет отреагировать на наши действия."
  
  BRT_Black_Market_Item_Purchase:0 "Black Market Item Purchase"
  BRT_Black_Market_Item_Purchase_desc:0 "§YArms Trading§! operations in countries with more than §Y10 Military Factories§! allows us to siphon some of their production for our own needs.\n\nWe can purchase equipment from the following countries:"
