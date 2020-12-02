@@ -1,32 +1,32 @@
 ﻿l_russian:
  ### Country Names ###
- BRY_communist:0 "Буряти"
+ BRY_communist:0 "Бурятия"
  BRY_communist_DEF:0 "Бурятская Автономная Советская Социалистическая Республика"
  BRY_socialist:0 "Бурятия"
  BRY_socialist_DEF:0 "Бурятская Автономная Советская Социалистическая Республика"
  BRY_social_liberal:0 "Бурятия"
- BRY_social_liberal_DEF:0 "Бурятия"
+ BRY_social_liberal_DEF:0 "Республика Бурятия"
  BRY_social_conservative:0 "Бурятия"
- BRY_social_conservative_DEF:0 "Бурятия"
+ BRY_social_conservative_DEF:0 "Бурятская Республика"
  BRY_authoritarian_democrat:0 "Бурятия"
- BRY_authoritarian_democrat_DEF:0 "Бурятия"
+ BRY_authoritarian_democrat_DEF:0 "Бурятская Республика"
  BRY_despotism:0 "Бурятия"
- BRY_despotism_DEF:0 "Бурятия"
+ BRY_despotism_DEF:0 "Нойонство Бурятия"
  BRY_fascism:0 "Бурятия"
- BRY_fascism_DEF:0 "Бурятия"
+ BRY_fascism_DEF:0 "Буряад Гюрэн"
  BRY_ultranational_socialism:0 "Бурятия"
- BRY_ultranational_socialism_DEF:0 "Бурятия"
- BRY_communist_ADJ:0 "бурятск"
- BRY_socialist_ADJ:0 "бурятск"
- BRY_social_liberal_ADJ:0 "бурятск"
- BRY_social_conservative_ADJ:0 "бурятск"
- BRY_authoritarian_democrat_ADJ:0 "бурятск"
- BRY_despotism_ADJ:0 "бурятск"
- BRY_fascism_ADJ:0 "бурятск"
- BRY_ultranational_socialism_ADJ:0 "бурятск"
+ BRY_ultranational_socialism_DEF:0 "СС-Государство Бурятия"
+ BRY_communist_ADJ:0 "Бурятск."
+ BRY_socialist_ADJ:0 "Бурятск."
+ BRY_social_liberal_ADJ:0 "Бурятск."
+ BRY_social_conservative_ADJ:0 "Бурятск."
+ BRY_authoritarian_democrat_ADJ:0 "Бурятск."
+ BRY_despotism_ADJ:0 "Бурятск."
+ BRY_fascism_ADJ:0 "Бурятск."
+ BRY_ultranational_socialism_ADJ:0 "Бурятск."
  
  ### Opinion Modifiers ###
- BRY_GER_JAP_denounced_us:0 "Denounced Us"
+ BRY_GER_JAP_denounced_us:0 "Нас осудили"
 
  ### Leader Descriptions ###
  POLITICS_VALERY_SABLIN_DESC:0 "Born in Leningrad amidst the New Years' celebrations of 1939, Valery Sablin was only a child when his family was evacuated eastwards with the shattered remnants of the Presidium, even as his father, a naval officer, sailed forth to meet his doom against the Kriegsmarine. This sacrifice was never lost on Sablin, who had grown up dreaming of the Union he had barely known, and of the Revolution his father's father had fought in. Despite having reservations with Yagoda's leadership, Sablin willingly enlisted into the army as a commissar still, not out of a sense of loyalty to Yagoda's totalitarian empire, but out of perhaps foolish hope that deep within the halls of the few ramshackle military academies that still stood, he would find answers to his questions. Was this really what those who came before him wanted? All he found was disappointment. What few books he could find were censored beyond measure, and he knew the NKVD watched his every step.\n\nWhen the Central Siberian War set the east ablaze, Sablin did his duty, inspiring his men to fight for socialism and equality - the more those under his command looked to him for guidance, the more he wondered if he was truly on the right side. Eventually, the dam broke. Sablin, accompanied by a few loyal soldiers, stormed a radio tower and broadcast a message for all the east to hear. In it, Sablin spoke earnestly of the hardships the people of Russia faced, and spoke of his dream for a truly equal socialist state, free of the terror Yagoda imposed upon the people. He expected no one to listen - but they did. Men and women flocked to join him, the dreamers, the dissidents, and the youths. Now, Sablin and his revolutionaries fight for the future, ready to make the ultimate sacrifice for their dream."
@@ -34,21 +34,21 @@
  
  ### Parties ###
  BRY_newparty_party:0 "ССКП"
- BRY_newparty_party_long:0 "Свободная Совесткая Комуннистическая Партия"
+ BRY_newparty_party_long:0 "Свободная Советская Коммунистическая Партия"
  BRY_communist_party:0 "ВКП(б)"
- BRY_communist_party_long:0 "Всесоюзная Коммунистическая Партия (Большевиков)"
- BRY_socialist_party:0 "ВКП(б) - Саблинисты"
- BRY_socialist_party_long:0 "Всесоюзная Коммунистическая Партия (Большевиков)) - Саблинисты"
+ BRY_communist_party_long:0 "Всесоюзная Коммунистическая Партия (большевиков)"
+ BRY_socialist_party:0 "ВКП(б) - Саблинцы"
+ BRY_socialist_party_long:0 "Всесоюзная Коммунистическая Партия (большевиков) - Саблинцы"
  BRY_social_democrat_party:0 "РНП"
  BRY_social_democrat_party_long:0 "Российская Народная Партия"
  BRY_social_liberal_party:0 "ДПС"
  BRY_social_liberal_party_long:0 "Демократическая Партия Сибири"
  BRY_social_conservative_party:0 "ПСР"
- BRY_social_conservative_party_long:0 "Партия Социальных Реоформ"
+ BRY_social_conservative_party_long:0 "Партия Социальных Реформ"
  BRY_authoritarian_democrat_party:0 "БНС"
  BRY_authoritarian_democrat_party_long:0 "Бурятский Националистический Совет"
- BRY_despotism_party:0 "РТЛ"
- BRY_despotism_party_long:0 "Российска Царская Лига"
+ BRY_despotism_party:0 "РЦЛ"
+ BRY_despotism_party_long:0 "Российская Царская Лига"
  BRY_fascism_party:0 "РФП"
  BRY_fascism_party_long:0 "Российская Фашистская Партия"
  BRY_national_socialism_party:0 "РФП"
@@ -57,13 +57,13 @@
  BRY_ultranational_socialism_party_long:0 "Российская Фашистская Партия"
 
  ### Ministers ###
- BRY_Susanna_Pechuro_hog:0 "Susanna Pechuro"
- BRY_Otto_Braun_for:0 "Otto Braun"
- BRY_Maya_Ulanovskaya_eco:0 "Maya Ulanovskaya"
- BRY_Mikhail_Markheev_sec:0 "Mikhail Markheev"
+ BRY_Susanna_Pechuro_hog:0 "Сусанна Печуро"
+ BRY_Otto_Braun_for:0 "Отто Браун"
+ BRY_Maya_Ulanovskaya_eco:0 "Майя Улановская"
+ BRY_Mikhail_Markheev_sec:0 "Михаил Мархеев"
 
- BRY_Alexander_Vlasov_hog:0 "Alexander Vlasov"
- BRY_Alexandra_Achkasova_eco:0 "Alexandra Achkasova"
+ BRY_Alexander_Vlasov_hog:0 "Александр Власов"
+ BRY_Alexandra_Achkasova_eco:0 "Александра Ачкасова"
 
  ### Ideas ###
  BRY_uncertain_revolutionaries:0 "Революционеры-идеалисты"
@@ -92,18 +92,18 @@
  BRY_idea_unity_forever_2:0 "Единство навсегда!"
  BRY_idea_unity_forever_3:0 "Единство навсегда!"
  BRY_idea_restraint:0 "Проявить сдержанность"
- BRY_against_the_theocrat:0 "Против теократов"
+ BRY_against_the_theocrat:0 "Против фанатика"
  BRY_against_the_tsarists:0 "Против царистов"
  BRY_against_the_madman:0 "Против безумца"
  BRY_against_the_deceiver:0 "Против обманщика"
- BRY_goodboy_economy_stage1:0 "Ленинистская экономика: уровень 1"
- BRY_goodboy_economy_stage2:0 "Ленинистская экономика: уровень 2"
+ BRY_goodboy_economy_stage1:0 "Ленинская экономика: уровень 1"
+ BRY_goodboy_economy_stage2:0 "Ленинская экономика: уровень 2"
  BRY_goodboy_economy_stage_final:0 "Ленинистская экономика: уровень 3"
  BRY_badboy_economy_stage1:0 "Бухаринская экономика: уровень 1"
  BRY_badboy_economy_stage2:0 "Бухаринская экономика: уровень 2"
  BRY_badboy_economy_stage_final:0 "Бухаринская экономика: уровень 3"
- BRY_goodboy_army_stage1:0 "Ленинистская армия: уровень 1"
- BRY_goodboy_army_stage2:0 "Ленинистская армия: уровень 2"
+ BRY_goodboy_army_stage1:0 "Ленинская армия: уровень 1"
+ BRY_goodboy_army_stage2:0 "Ленинская армия: уровень 2"
  BRY_goodboy_army_stage_final: "Ленинистская армия: уровень 3"
  BRY_badboy_army_stage1:0 "Бухаринская армия: уровень 1"
  BRY_badboy_army_stage2:0 "Бухаринская армия: уровень 2"
@@ -134,8 +134,8 @@
 
  ### Decisions ###
  #Debug
- BRY_debug_category:0 "Buryatia Debug Category"
- BRY_debug_category_desc:0 "@thunderslav i hate you"
+ BRY_debug_category:0 "Отладка Бурятии"
+ BRY_debug_category_desc:0 "@thunderslav (ответственный за русских варлордов) ненавижу тебя"
 
  BRY_load_starting_tree:0 "Load the §YStarting§! Tree"
  BRY_load_post_mutiny_tree:0 "Load the §YPost-Mutiny§! Tree"
@@ -160,19 +160,19 @@
  BRY_sablin_badboy_army_1:0 "Communist Army Reforms: Stage 1"
  BRY_sablin_badboy_army_2:0 "Communist Army Reforms: Stage 2"
  
- BRY_sablin_good_boy_very_low:0 "§Rvery low§!"
- BRY_sablin_good_boy_low:0 "§Hlow§!"
- BRY_sablin_good_boy_medium:0 "§Ymoderate§!"
- BRY_sablin_good_boy_high:0 "§Ghigh§!"
- BRY_sablin_good_boy_very_high:0 "§Mvery high§!"
+ BRY_sablin_good_boy_very_low:0 "§Rочень низкий уровень§!"
+ BRY_sablin_good_boy_low:0 "§Hнизкий уровень§!"
+ BRY_sablin_good_boy_medium:0 "§Yсредний уровень§!"
+ BRY_sablin_good_boy_high:0 "§Gвысокий уровень§!"
+ BRY_sablin_good_boy_very_high:0 "§Mочень высокий уровень§!"
  
- BRY_sablin_bad_boy_very_low:0 "§Rvery low§!"
- BRY_sablin_bad_boy_low:0 "§Hlow§!"
- BRY_sablin_bad_boy_medium:0 "§Ymoderate§!"
- BRY_sablin_bad_boy_high:0 "§Ghigh§!"
- BRY_sablin_bad_boy_very_high:0 "§Mvery high§!"
+ BRY_sablin_bad_boy_very_low:0 "§Rочень низкий уровень§!"
+ BRY_sablin_bad_boy_low:0 "§Hнизкий уровень§!"
+ BRY_sablin_bad_boy_medium:0 "§Yсредний уровень§!"
+ BRY_sablin_bad_boy_high:0 "§Gвысокий уровень§!"
+ BRY_sablin_bad_boy_very_high:0 "§Mочень высокий уровень§!"
 
- BRY_against_the_capitalists:0 "Against the Capitalists"
+ BRY_against_the_capitalists:0 "Долой капитализм!"
 
  #############################
  ##=====| Focus Trees |=====##
@@ -197,7 +197,7 @@
  BRY_nothing_to_lose:0 "Нечего терять"
  BRY_nothing_to_lose_desc:0 "Come, Comrades, join our righteous struggle! Dream of a world in which no man is a slave, no man is subject to the cruel whip or the bullet, a world where democracy and the worker come before all! We can make this world a reality, Comrades, all we need is your strength, your anger, and your hope. Join with us, Comrades, and together we will save the Motherland from the strife that engulfs it, and usher in a new age of peace and prosperity!"
 
- BRY_of_equality:0 "Равенства"
+ BRY_of_equality:0 "Равенство"
  BRY_of_equality_desc:0 "It is not just the men of the Buryat ASSR that fight for their freedom, Comrades. All brave sons and daughters of the revolution fight together in this struggle against the tyrants, as the great architects of socialism desired. Arm in arm, working men and women will liberate themselves from Yagoda's vicious gaze. While women in our makeshift army are currently restricted to nurses and scouts, Comrade Sablin has begun to push for reforms in these policies. Every man or woman will do their share to liberate Buryatia."
 
  BRY_the_dreams_of_those_before:0 "Мечты тех, кто был раньше"
@@ -206,7 +206,7 @@
  BRY_and_the_will_of_us_today:0 "И наша сегодняшняя воля"
  BRY_and_the_will_of_us_today_desc:0 "The time has come to finish our reforms in regards to the social status of women, at least for now. Comrade Sablin has declared, as a wartime measure, that women are to be treated essentially identically as men, including methods of work, the law, and the draft. While this is a rather patchwork solution, it is a necessary one for now.\n\nIf we are to win this war, we need all hands on deck."
 
- BRY_of_anger:0 "Злости"
+ BRY_of_anger:0 "Злость"
  BRY_of_anger_desc:0 "While Comrade Sablin's reforms and dreams are a revolution in and of themselves, we must not forget our war is not one of gradual, tolerant reform, but a bitter fight for survival and justice itself. Throughout the ASSR, there is not one man, woman, or children that has not felt the bitter sting of loss; all have felt the cold bite of the NKVD's perverted mockery of justice.\n\nThis, comrades, is the greatest reason for our struggle. We are not only fighting for a better world, and we are not only fighting for a better Union - we fight for our very survival. Already, partisans loose their fury upon the NKVD, and if we are to ever defeat the tyrants, we can do nothing but intensify these attacks. We will be the agents of justice that avenge all those the NKVD have wronged."
 
  BRY_answers_for_their_crimes:0 "Ответы за свои преступления"
@@ -227,7 +227,6 @@
  ### Post-war tree ###
  BRY_the_revolution_victorious:0 "Революция победила"
  BRY_the_revolution_victorious_desc:0 "We are victorious and Yagoda sits in our prison, awaiting his fate. We have proven our strength and will on the battlefields of Siberia and we can now transform our region into a worker's dream! Let those who doubted our chances of success be crushed by the boot of Leninism. Nevertheless, our territory has been ravaged by war and much of the infrastructure we had was damaged. Our nation must now begin the reconstruction of the land and build a state much like the old Soviet state under Lenin.\n\nIf we want to unify the motherland and help the struggling Russians being oppressed by dictators and mismanaged by inept democracies, we must create a strong union that can fight for them. It is also necessary we create a model province to show our enemies we are the only ones who can create a perfect Russia. No one can stop the masses from achieving their goals in the end!"
-
 
  BRY_stoke_the_fires:0 "Разжечь костры"
  BRY_stoke_the_fires_desc:0 "Let us promote our revolutionary ideals to make a better society. People have become lethargic and fearful because of the brutality and terror tactics of Yagoda, but cruelty is not what socialism should be about. The workers should love their government, not be scared of it. Socialism is not the dread of what punishment is to come, but the anticipation of what reward is to be made.\n\nFor socialism to work it is in dire need of the support of the people. That is where Yagoda failed, but we will succeed.\n\nTo achieve this we will need some propaganda. We must appear as a loving and caring government to the populace. Posters will be around every corner and the radios will be filled with revolutionary messages! Likewise, we must also give more rights to the laborers in the factories and farms. We will have support in no time!"
