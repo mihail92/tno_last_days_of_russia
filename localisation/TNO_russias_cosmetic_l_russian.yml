@@ -242,11 +242,11 @@
  MAG_WA_republic_regional_unifier_social_democrat_DEF:0 "Сибирская Республика"
  MAG_WA_republic_regional_unifier_social_democrat_ADJ:0 "Сибирск"
  
- OMO_father_men_despotism:0 "Сибирский Священный Мандат"
- OMO_father_men_despotism_DEF:0 "Сибирский Священный Мандат"
+ OMO_father_men_despotism:0 "Божие Владение над Дальним Востоком"
+ OMO_father_men_despotism_DEF:0 "Божие Владение над Дальним Востоком"
  OMO_father_men_despotism_ADJ:0 "Сибирск"
- OMO_regional_unifier_despotism:0 "Сибирский Священный Мандат"
- OMO_regional_unifier_despotism_DEF:0 "Сибирский Священный Мандат"
+ OMO_regional_unifier_despotism:0 "Божие Владение над Дальним Востоком"
+ OMO_regional_unifier_despotism_DEF:0 "Божие Владение над Дальним Востоком"
  OMO_regional_unifier_despotism_ADJ:0 "Сибирск"
  
  WCH_regional_unifier_social_liberal:0 "Дальневосточное Царство"
@@ -404,9 +404,9 @@
  MAG_SIB_fascism_ADJ:0 "Сибирск"
  
  #Father Men
- OMO_SIB_despotism:0 "Святая Сибирь"
- OMO_SIB_despotism_DEF:0 "Святая Сибирь"
- OMO_SIB_despotism_ADJ:0 "Сибирск"
+ OMO_SIB_despotism:0 "Божие Владение над Сибирью
+ OMO_SIB_despotism_DEF:0 "Божие Владение над Сибирью"
+ OMO_SIB_despotism_ADJ:0 "Божие Владение над Сибирью"
 
 
  ###RUSSIANS
@@ -643,8 +643,8 @@
  MAG_RUS_fascism_ADJ:0 "Русск"
  
  #Father Men
- OMO_RUS_despotism:0 "Святая Россия"
- OMO_RUS_despotism_DEF:0 "Святая Россия"
+ OMO_RUS_despotism:0 "Божие Владение над Россией"
+ OMO_RUS_despotism_DEF:0 "Божие Владение над Россией"
  OMO_RUS_despotism_ADJ:0 "Русск" 
  
  
